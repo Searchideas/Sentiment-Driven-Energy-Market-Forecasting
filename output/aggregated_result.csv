@@ -1,0 +1,618 @@
+group_topic,final_location,tweet_count,account_count,temp_counts,temp_percentages
+"winter, cold, weather",Unknown,1575,13,"{'cold': 778, 'mild/not relevant': 704, 'very cold': 63, 'hot': 24, 'very hot': 6}","{'cold': '778 (49.4%)', 'mild/not relevant': '704 (44.7%)', 'very cold': '63 (4.0%)', 'hot': '24 (1.5%)', 'very hot': '6 (0.4%)'}"
+"snow, cold, uksnow",Unknown,1543,13,"{'cold': 883, 'mild/not relevant': 585, 'very cold': 69, 'very hot': 3, 'hot': 3}","{'cold': '883 (57.2%)', 'mild/not relevant': '585 (37.9%)', 'very cold': '69 (4.5%)', 'very hot': '3 (0.2%)', 'hot': '3 (0.2%)'}"
+"cold, snow, z",Unknown,1428,13,"{'cold': 896, 'mild/not relevant': 489, 'very cold': 36, 'hot': 6, 'very hot': 1}","{'cold': '896 (62.7%)', 'mild/not relevant': '489 (34.2%)', 'very cold': '36 (2.5%)', 'hot': '6 (0.4%)', 'very hot': '1 (0.1%)'}"
+storm,Unknown,858,13,"{'cold': 710, 'mild/not relevant': 129, 'very cold': 14, 'hot': 5}","{'cold': '710 (82.8%)', 'mild/not relevant': '129 (15.0%)', 'very cold': '14 (1.6%)', 'hot': '5 (0.6%)'}"
+"cold, snow, air",Unknown,838,13,"{'cold': 492, 'mild/not relevant': 299, 'very cold': 42, 'very hot': 3, 'hot': 2}","{'cold': '492 (58.7%)', 'mild/not relevant': '299 (35.7%)', 'very cold': '42 (5.0%)', 'very hot': '3 (0.4%)', 'hot': '2 (0.2%)'}"
+"snow, cold, uksnow",united states,635,13,"{'cold': 345, 'mild/not relevant': 262, 'very cold': 25, 'very hot': 2, 'hot': 1}","{'cold': '345 (54.3%)', 'mild/not relevant': '262 (41.3%)', 'very cold': '25 (3.9%)', 'very hot': '2 (0.3%)', 'hot': '1 (0.2%)'}"
+storm,united states,557,13,"{'cold': 339, 'mild/not relevant': 202, 'hot': 9, 'very cold': 6, 'very hot': 1}","{'cold': '339 (60.9%)', 'mild/not relevant': '202 (36.3%)', 'hot': '9 (1.6%)', 'very cold': '6 (1.1%)', 'very hot': '1 (0.2%)'}"
+"snow, cold, uksnow",germany,545,13,"{'cold': 325, 'mild/not relevant': 200, 'very cold': 17, 'hot': 3}","{'cold': '325 (59.6%)', 'mild/not relevant': '200 (36.7%)', 'very cold': '17 (3.1%)', 'hot': '3 (0.6%)'}"
+"winter, cold, weather",united states,409,13,"{'cold': 191, 'mild/not relevant': 188, 'very cold': 20, 'hot': 6, 'very hot': 4}","{'cold': '191 (46.7%)', 'mild/not relevant': '188 (46.0%)', 'very cold': '20 (4.9%)', 'hot': '6 (1.5%)', 'very hot': '4 (1.0%)'}"
+"cold, snow, air",united states,301,13,"{'cold': 155, 'mild/not relevant': 126, 'very cold': 11, 'hot': 5, 'very hot': 4}","{'cold': '155 (51.5%)', 'mild/not relevant': '126 (41.9%)', 'very cold': '11 (3.7%)', 'hot': '5 (1.7%)', 'very hot': '4 (1.3%)'}"
+blocking,Unknown,300,13,"{'cold': 225, 'mild/not relevant': 62, 'very cold': 8, 'hot': 5}","{'cold': '225 (75.0%)', 'mild/not relevant': '62 (20.7%)', 'very cold': '8 (2.7%)', 'hot': '5 (1.7%)'}"
+"snow, cold, uksnow",united kingdom,297,12,"{'mild/not relevant': 141, 'cold': 129, 'very cold': 26, 'hot': 1}","{'mild/not relevant': '141 (47.5%)', 'cold': '129 (43.4%)', 'very cold': '26 (8.8%)', 'hot': '1 (0.3%)'}"
+ssw,Unknown,249,12,"{'mild/not relevant': 133, 'cold': 110, 'very cold': 6}","{'mild/not relevant': '133 (53.4%)', 'cold': '110 (44.2%)', 'very cold': '6 (2.4%)'}"
+"cold, snow, z",germany,241,11,"{'cold': 169, 'mild/not relevant': 65, 'very cold': 7}","{'cold': '169 (70.1%)', 'mild/not relevant': '65 (27.0%)', 'very cold': '7 (2.9%)'}"
+"cold, snow, air",germany,238,13,"{'cold': 141, 'mild/not relevant': 80, 'very cold': 12, 'hot': 4, 'very hot': 1}","{'cold': '141 (59.2%)', 'mild/not relevant': '80 (33.6%)', 'very cold': '12 (5.0%)', 'hot': '4 (1.7%)', 'very hot': '1 (0.4%)'}"
+storm,germany,184,13,"{'cold': 135, 'mild/not relevant': 46, 'very cold': 2, 'hot': 1}","{'cold': '135 (73.4%)', 'mild/not relevant': '46 (25.0%)', 'very cold': '2 (1.1%)', 'hot': '1 (0.5%)'}"
+"snow, cold, uksnow",norway,181,13,"{'cold': 95, 'mild/not relevant': 80, 'very cold': 6}","{'cold': '95 (52.5%)', 'mild/not relevant': '80 (44.2%)', 'very cold': '6 (3.3%)'}"
+"cold, snow, z",united states,178,13,"{'mild/not relevant': 91, 'cold': 83, 'very cold': 4}","{'mild/not relevant': '91 (51.1%)', 'cold': '83 (46.6%)', 'very cold': '4 (2.2%)'}"
+"winter, cold, weather",norway,167,13,"{'mild/not relevant': 86, 'cold': 66, 'hot': 7, 'very cold': 7, 'very hot': 1}","{'mild/not relevant': '86 (51.5%)', 'cold': '66 (39.5%)', 'hot': '7 (4.2%)', 'very cold': '7 (4.2%)', 'very hot': '1 (0.6%)'}"
+pv,Unknown,163,10,"{'mild/not relevant': 118, 'hot': 22, 'cold': 21, 'very cold': 2}","{'mild/not relevant': '118 (72.4%)', 'hot': '22 (13.5%)', 'cold': '21 (12.9%)', 'very cold': '2 (1.2%)'}"
+nao,Unknown,154,12,"{'mild/not relevant': 116, 'cold': 20, 'hot': 18}","{'mild/not relevant': '116 (75.3%)', 'cold': '20 (13.0%)', 'hot': '18 (11.7%)'}"
+"snow, cold, uksnow",sweden,150,12,"{'cold': 76, 'mild/not relevant': 70, 'very cold': 3, 'hot': 1}","{'cold': '76 (50.7%)', 'mild/not relevant': '70 (46.7%)', 'very cold': '3 (2.0%)', 'hot': '1 (0.7%)'}"
+"winter, cold, weather",germany,147,13,"{'cold': 74, 'mild/not relevant': 60, 'very cold': 10, 'hot': 3}","{'cold': '74 (50.3%)', 'mild/not relevant': '60 (40.8%)', 'very cold': '10 (6.8%)', 'hot': '3 (2.0%)'}"
+"winter, cold, weather",united kingdom,131,12,"{'cold': 65, 'mild/not relevant': 59, 'very cold': 6, 'hot': 1}","{'cold': '65 (49.6%)', 'mild/not relevant': '59 (45.0%)', 'very cold': '6 (4.6%)', 'hot': '1 (0.8%)'}"
+northerly,Unknown,121,9,"{'cold': 108, 'mild/not relevant': 13}","{'cold': '108 (89.3%)', 'mild/not relevant': '13 (10.7%)'}"
+polarvortex,Unknown,112,5,"{'cold': 68, 'mild/not relevant': 38, 'hot': 3, 'very cold': 3}","{'cold': '68 (60.7%)', 'mild/not relevant': '38 (33.9%)', 'hot': '3 (2.7%)', 'very cold': '3 (2.7%)'}"
+"cold, snow, z",norway,110,13,"{'cold': 76, 'mild/not relevant': 31, 'very cold': 3}","{'cold': '76 (69.1%)', 'mild/not relevant': '31 (28.2%)', 'very cold': '3 (2.7%)'}"
+"cold, snow, z",united kingdom,93,9,"{'cold': 57, 'mild/not relevant': 35, 'very cold': 1}","{'cold': '57 (61.3%)', 'mild/not relevant': '35 (37.6%)', 'very cold': '1 (1.1%)'}"
+"snow, cold, uksnow",scotland,85,10,"{'cold': 59, 'mild/not relevant': 24, 'very cold': 2}","{'cold': '59 (69.4%)', 'mild/not relevant': '24 (28.2%)', 'very cold': '2 (2.4%)'}"
+"cold, snow, air",norway,85,11,"{'cold': 39, 'mild/not relevant': 37, 'very cold': 6, 'hot': 3}","{'cold': '39 (45.9%)', 'mild/not relevant': '37 (43.5%)', 'very cold': '6 (7.1%)', 'hot': '3 (3.5%)'}"
+storm,norway,75,12,"{'cold': 50, 'mild/not relevant': 23, 'hot': 1, 'very cold': 1}","{'cold': '50 (66.7%)', 'mild/not relevant': '23 (30.7%)', 'hot': '1 (1.3%)', 'very cold': '1 (1.3%)'}"
+beastfromtheeast,Unknown,73,9,"{'cold': 63, 'mild/not relevant': 7, 'very cold': 3}","{'cold': '63 (86.3%)', 'mild/not relevant': '7 (9.6%)', 'very cold': '3 (4.1%)'}"
+blocking,united states,69,11,"{'cold': 49, 'mild/not relevant': 17, 'hot': 2, 'very cold': 1}","{'cold': '49 (71.0%)', 'mild/not relevant': '17 (24.6%)', 'hot': '2 (2.9%)', 'very cold': '1 (1.4%)'}"
+storm,united kingdom,67,11,"{'cold': 45, 'mild/not relevant': 21, 'very hot': 1}","{'cold': '45 (67.2%)', 'mild/not relevant': '21 (31.3%)', 'very hot': '1 (1.5%)'}"
+"cold, snow, air",sweden,64,11,"{'cold': 47, 'mild/not relevant': 17}","{'cold': '47 (73.4%)', 'mild/not relevant': '17 (26.6%)'}"
+"snow, cold, uksnow",ireland,56,10,"{'cold': 42, 'mild/not relevant': 12, 'very cold': 2}","{'cold': '42 (75.0%)', 'mild/not relevant': '12 (21.4%)', 'very cold': '2 (3.6%)'}"
+"cold, snow, air",united kingdom,48,10,"{'cold': 27, 'mild/not relevant': 16, 'hot': 3, 'very hot': 1, 'very cold': 1}","{'cold': '27 (56.2%)', 'mild/not relevant': '16 (33.3%)', 'hot': '3 (6.2%)', 'very hot': '1 (2.1%)', 'very cold': '1 (2.1%)'}"
+"polarvortex, ssw",Unknown,48,4,"{'cold': 25, 'very cold': 13, 'mild/not relevant': 10}","{'cold': '25 (52.1%)', 'very cold': '13 (27.1%)', 'mild/not relevant': '10 (20.8%)'}"
+"winter, cold, weather",france,47,9,"{'mild/not relevant': 26, 'cold': 19, 'very cold': 2}","{'mild/not relevant': '26 (55.3%)', 'cold': '19 (40.4%)', 'very cold': '2 (4.3%)'}"
+storm,sweden,47,7,"{'cold': 35, 'mild/not relevant': 11, 'very cold': 1}","{'cold': '35 (74.5%)', 'mild/not relevant': '11 (23.4%)', 'very cold': '1 (2.1%)'}"
+"snow, cold, uksnow",france,47,8,"{'mild/not relevant': 34, 'cold': 12, 'very cold': 1}","{'mild/not relevant': '34 (72.3%)', 'cold': '12 (25.5%)', 'very cold': '1 (2.1%)'}"
+"cold, snow, z",turkey,47,7,"{'cold': 23, 'mild/not relevant': 23, 'very cold': 1}","{'cold': '23 (48.9%)', 'mild/not relevant': '23 (48.9%)', 'very cold': '1 (2.1%)'}"
+"pv, ssw",Unknown,45,6,"{'mild/not relevant': 30, 'cold': 15}","{'mild/not relevant': '30 (66.7%)', 'cold': '15 (33.3%)'}"
+blocking,germany,43,10,"{'cold': 30, 'mild/not relevant': 13}","{'cold': '30 (69.8%)', 'mild/not relevant': '13 (30.2%)'}"
+"snow, cold, uksnow",netherlands,42,10,"{'mild/not relevant': 24, 'cold': 14, 'very cold': 3, 'very hot': 1}","{'mild/not relevant': '24 (57.1%)', 'cold': '14 (33.3%)', 'very cold': '3 (7.1%)', 'very hot': '1 (2.4%)'}"
+"pv, polarvortex",Unknown,42,2,"{'mild/not relevant': 29, 'cold': 12, 'hot': 1}","{'mild/not relevant': '29 (69.0%)', 'cold': '12 (28.6%)', 'hot': '1 (2.4%)'}"
+"winter, cold, weather",netherlands,41,9,"{'mild/not relevant': 25, 'cold': 14, 'very cold': 2}","{'mild/not relevant': '25 (61.0%)', 'cold': '14 (34.1%)', 'very cold': '2 (4.9%)'}"
+ssw,united states,41,8,"{'cold': 20, 'mild/not relevant': 18, 'hot': 2, 'very cold': 1}","{'cold': '20 (48.8%)', 'mild/not relevant': '18 (43.9%)', 'hot': '2 (4.9%)', 'very cold': '1 (2.4%)'}"
+storm,ireland,41,9,"{'cold': 23, 'mild/not relevant': 18}","{'cold': '23 (56.1%)', 'mild/not relevant': '18 (43.9%)'}"
+northerly,united states,40,10,"{'cold': 29, 'mild/not relevant': 9, 'hot': 2}","{'cold': '29 (72.5%)', 'mild/not relevant': '9 (22.5%)', 'hot': '2 (5.0%)'}"
+storm,france,40,11,"{'cold': 26, 'mild/not relevant': 12, 'very cold': 2}","{'cold': '26 (65.0%)', 'mild/not relevant': '12 (30.0%)', 'very cold': '2 (5.0%)'}"
+"winter, cold, weather",turkey,40,9,"{'mild/not relevant': 20, 'cold': 16, 'very cold': 4}","{'mild/not relevant': '20 (50.0%)', 'cold': '16 (40.0%)', 'very cold': '4 (10.0%)'}"
+"cold, snow, z",netherlands,40,9,"{'mild/not relevant': 23, 'cold': 16, 'very cold': 1}","{'mild/not relevant': '23 (57.5%)', 'cold': '16 (40.0%)', 'very cold': '1 (2.5%)'}"
+storm,netherlands,39,12,"{'cold': 23, 'mild/not relevant': 13, 'very cold': 3}","{'cold': '23 (59.0%)', 'mild/not relevant': '13 (33.3%)', 'very cold': '3 (7.7%)'}"
+"cold, snow, air",france,37,12,"{'cold': 18, 'mild/not relevant': 17, 'very cold': 2}","{'cold': '18 (48.6%)', 'mild/not relevant': '17 (45.9%)', 'very cold': '2 (5.4%)'}"
+pv,croatia,30,8,"{'mild/not relevant': 25, 'very cold': 2, 'cold': 2, 'hot': 1}","{'mild/not relevant': '25 (83.3%)', 'very cold': '2 (6.7%)', 'cold': '2 (6.7%)', 'hot': '1 (3.3%)'}"
+nao,united states,28,8,"{'mild/not relevant': 22, 'cold': 5, 'hot': 1}","{'mild/not relevant': '22 (78.6%)', 'cold': '5 (17.9%)', 'hot': '1 (3.6%)'}"
+storm,florida,28,6,"{'cold': 16, 'mild/not relevant': 12}","{'cold': '16 (57.1%)', 'mild/not relevant': '12 (42.9%)'}"
+"cold, snow, air",netherlands,27,7,"{'mild/not relevant': 14, 'cold': 13}","{'mild/not relevant': '14 (51.9%)', 'cold': '13 (48.1%)'}"
+pv,united states,27,7,"{'mild/not relevant': 18, 'cold': 9}","{'mild/not relevant': '18 (66.7%)', 'cold': '9 (33.3%)'}"
+storm,turkey,26,7,"{'cold': 15, 'mild/not relevant': 10, 'very cold': 1}","{'cold': '15 (57.7%)', 'mild/not relevant': '10 (38.5%)', 'very cold': '1 (3.8%)'}"
+"winter, cold, weather",sweden,26,6,"{'mild/not relevant': 15, 'cold': 9, 'very cold': 1, 'hot': 1}","{'mild/not relevant': '15 (57.7%)', 'cold': '9 (34.6%)', 'very cold': '1 (3.8%)', 'hot': '1 (3.8%)'}"
+"blocking, nao",Unknown,25,6,"{'mild/not relevant': 20, 'cold': 4, 'very cold': 1}","{'mild/not relevant': '20 (80.0%)', 'cold': '4 (16.0%)', 'very cold': '1 (4.0%)'}"
+blocking,norway,25,9,"{'cold': 16, 'mild/not relevant': 9}","{'cold': '16 (64.0%)', 'mild/not relevant': '9 (36.0%)'}"
+"cold, snow, air",ireland,25,10,"{'cold': 17, 'mild/not relevant': 7, 'very cold': 1}","{'cold': '17 (68.0%)', 'mild/not relevant': '7 (28.0%)', 'very cold': '1 (4.0%)'}"
+ssw,croatia,23,6,"{'cold': 12, 'mild/not relevant': 11}","{'cold': '12 (52.2%)', 'mild/not relevant': '11 (47.8%)'}"
+"winter, cold, weather",russia,23,8,"{'mild/not relevant': 13, 'cold': 7, 'very cold': 3}","{'mild/not relevant': '13 (56.5%)', 'cold': '7 (30.4%)', 'very cold': '3 (13.0%)'}"
+"winter, cold, weather",croatia,23,5,"{'mild/not relevant': 12, 'cold': 11}","{'mild/not relevant': '12 (52.2%)', 'cold': '11 (47.8%)'}"
+polarvortex,united states,21,4,"{'mild/not relevant': 11, 'cold': 9, 'hot': 1}","{'mild/not relevant': '11 (52.4%)', 'cold': '9 (42.9%)', 'hot': '1 (4.8%)'}"
+ssw,norway,21,9,"{'mild/not relevant': 13, 'cold': 7, 'very cold': 1}","{'mild/not relevant': '13 (61.9%)', 'cold': '7 (33.3%)', 'very cold': '1 (4.8%)'}"
+northerly,norway,21,10,"{'cold': 20, 'mild/not relevant': 1}","{'cold': '20 (95.2%)', 'mild/not relevant': '1 (4.8%)'}"
+northerly,germany,21,4,"{'cold': 18, 'mild/not relevant': 3}","{'cold': '18 (85.7%)', 'mild/not relevant': '3 (14.3%)'}"
+"blocking, polarvortex",Unknown,21,2,"{'cold': 13, 'mild/not relevant': 7, 'very cold': 1}","{'cold': '13 (61.9%)', 'mild/not relevant': '7 (33.3%)', 'very cold': '1 (4.8%)'}"
+ssw,germany,20,6,"{'cold': 10, 'mild/not relevant': 9, 'very cold': 1}","{'cold': '10 (50.0%)', 'mild/not relevant': '9 (45.0%)', 'very cold': '1 (5.0%)'}"
+nao,norway,19,7,"{'mild/not relevant': 12, 'cold': 4, 'hot': 2, 'very cold': 1}","{'mild/not relevant': '12 (63.2%)', 'cold': '4 (21.1%)', 'hot': '2 (10.5%)', 'very cold': '1 (5.3%)'}"
+"pv, polarvortex",croatia,19,1,"{'mild/not relevant': 15, 'cold': 3, 'hot': 1}","{'mild/not relevant': '15 (78.9%)', 'cold': '3 (15.8%)', 'hot': '1 (5.3%)'}"
+"cold, snow, z",uk,19,5,"{'cold': 12, 'mild/not relevant': 7}","{'cold': '12 (63.2%)', 'mild/not relevant': '7 (36.8%)'}"
+"pv, blocking",Unknown,18,6,"{'mild/not relevant': 11, 'cold': 7}","{'mild/not relevant': '11 (61.1%)', 'cold': '7 (38.9%)'}"
+"cold, snow, z",france,18,8,"{'cold': 12, 'mild/not relevant': 6}","{'cold': '12 (66.7%)', 'mild/not relevant': '6 (33.3%)'}"
+polarvortex,croatia,18,3,"{'cold': 9, 'mild/not relevant': 8, 'very cold': 1}","{'cold': '9 (50.0%)', 'mild/not relevant': '8 (44.4%)', 'very cold': '1 (5.6%)'}"
+pv,norway,17,4,"{'mild/not relevant': 11, 'cold': 4, 'hot': 2}","{'mild/not relevant': '11 (64.7%)', 'cold': '4 (23.5%)', 'hot': '2 (11.8%)'}"
+storm,croatia,17,6,"{'cold': 12, 'mild/not relevant': 5}","{'cold': '12 (70.6%)', 'mild/not relevant': '5 (29.4%)'}"
+ssw,united kingdom,17,6,"{'mild/not relevant': 8, 'cold': 7, 'hot': 1, 'very cold': 1}","{'mild/not relevant': '8 (47.1%)', 'cold': '7 (41.2%)', 'hot': '1 (5.9%)', 'very cold': '1 (5.9%)'}"
+storm,scotland,16,7,"{'cold': 13, 'mild/not relevant': 2, 'hot': 1}","{'cold': '13 (81.2%)', 'mild/not relevant': '2 (12.5%)', 'hot': '1 (6.2%)'}"
+"cold, snow, z",croatia,15,4,"{'cold': 10, 'mild/not relevant': 5}","{'cold': '10 (66.7%)', 'mild/not relevant': '5 (33.3%)'}"
+ssts,Unknown,15,7,"{'hot': 7, 'mild/not relevant': 5, 'cold': 3}","{'hot': '7 (46.7%)', 'mild/not relevant': '5 (33.3%)', 'cold': '3 (20.0%)'}"
+"snow, cold, uksnow",turkey,15,7,"{'cold': 9, 'mild/not relevant': 5, 'very cold': 1}","{'cold': '9 (60.0%)', 'mild/not relevant': '5 (33.3%)', 'very cold': '1 (6.7%)'}"
+"snow, cold, uksnow",spain,15,7,"{'mild/not relevant': 9, 'cold': 6}","{'mild/not relevant': '9 (60.0%)', 'cold': '6 (40.0%)'}"
+"snow, cold, uksnow",croatia,14,5,"{'cold': 10, 'mild/not relevant': 4}","{'cold': '10 (71.4%)', 'mild/not relevant': '4 (28.6%)'}"
+"polarvortex, ssw",croatia,14,3,"{'mild/not relevant': 7, 'cold': 6, 'very cold': 1}","{'mild/not relevant': '7 (50.0%)', 'cold': '6 (42.9%)', 'very cold': '1 (7.1%)'}"
+"snow, cold, uksnow",uk,14,7,"{'cold': 12, 'mild/not relevant': 2}","{'cold': '12 (85.7%)', 'mild/not relevant': '2 (14.3%)'}"
+"snow, cold, uksnow",austria,14,6,"{'mild/not relevant': 8, 'cold': 5, 'very cold': 1}","{'mild/not relevant': '8 (57.1%)', 'cold': '5 (35.7%)', 'very cold': '1 (7.1%)'}"
+"cold, snow, z",sweden,13,6,"{'cold': 7, 'mild/not relevant': 6}","{'cold': '7 (53.8%)', 'mild/not relevant': '6 (46.2%)'}"
+"cold, snow, air",iceland,13,8,"{'cold': 10, 'mild/not relevant': 2, 'very cold': 1}","{'cold': '10 (76.9%)', 'mild/not relevant': '2 (15.4%)', 'very cold': '1 (7.7%)'}"
+polarvortex,norway,13,3,"{'mild/not relevant': 7, 'cold': 4, 'very cold': 2}","{'mild/not relevant': '7 (53.8%)', 'cold': '4 (30.8%)', 'very cold': '2 (15.4%)'}"
+"snow, cold, uksnow",england,12,7,"{'cold': 6, 'mild/not relevant': 5, 'very cold': 1}","{'cold': '6 (50.0%)', 'mild/not relevant': '5 (41.7%)', 'very cold': '1 (8.3%)'}"
+"cold, snow, z",britain,12,4,"{'cold': 7, 'mild/not relevant': 5}","{'cold': '7 (58.3%)', 'mild/not relevant': '5 (41.7%)'}"
+"cold, snow, air",spain,12,9,"{'cold': 9, 'mild/not relevant': 3}","{'cold': '9 (75.0%)', 'mild/not relevant': '3 (25.0%)'}"
+"winter, cold, weather",austria,12,7,"{'cold': 8, 'mild/not relevant': 3, 'very cold': 1}","{'cold': '8 (66.7%)', 'mild/not relevant': '3 (25.0%)', 'very cold': '1 (8.3%)'}"
+"cold, snow, air",turkey,12,4,"{'cold': 7, 'mild/not relevant': 5}","{'cold': '7 (58.3%)', 'mild/not relevant': '5 (41.7%)'}"
+blocking,united kingdom,12,6,"{'cold': 9, 'mild/not relevant': 3}","{'cold': '9 (75.0%)', 'mild/not relevant': '3 (25.0%)'}"
+"blocking, ssw",Unknown,12,7,"{'cold': 8, 'mild/not relevant': 4}","{'cold': '8 (66.7%)', 'mild/not relevant': '4 (33.3%)'}"
+"winter, cold, weather",eurasia,12,2,"{'cold': 9, 'mild/not relevant': 2, 'hot': 1}","{'cold': '9 (75.0%)', 'mild/not relevant': '2 (16.7%)', 'hot': '1 (8.3%)'}"
+"cold, snow, air",uk,12,6,"{'cold': 8, 'mild/not relevant': 4}","{'cold': '8 (66.7%)', 'mild/not relevant': '4 (33.3%)'}"
+beastfromtheeast,united states,11,5,"{'cold': 8, 'mild/not relevant': 2, 'very cold': 1}","{'cold': '8 (72.7%)', 'mild/not relevant': '2 (18.2%)', 'very cold': '1 (9.1%)'}"
+storm,iceland,11,5,"{'cold': 6, 'mild/not relevant': 5}","{'cold': '6 (54.5%)', 'mild/not relevant': '5 (45.5%)'}"
+"cold, snow, air",croatia,11,4,"{'cold': 8, 'mild/not relevant': 3}","{'cold': '8 (72.7%)', 'mild/not relevant': '3 (27.3%)'}"
+pv,germany,11,6,"{'mild/not relevant': 9, 'cold': 2}","{'mild/not relevant': '9 (81.8%)', 'cold': '2 (18.2%)'}"
+"cold, snow, air",scotland,11,7,"{'cold': 7, 'mild/not relevant': 4}","{'cold': '7 (63.6%)', 'mild/not relevant': '4 (36.4%)'}"
+blocking,croatia,11,5,"{'cold': 7, 'mild/not relevant': 4}","{'cold': '7 (63.6%)', 'mild/not relevant': '4 (36.4%)'}"
+"snow, cold, uksnow",russia,11,4,"{'mild/not relevant': 6, 'cold': 5}","{'mild/not relevant': '6 (54.5%)', 'cold': '5 (45.5%)'}"
+"pv, ssw",croatia,10,3,"{'mild/not relevant': 6, 'cold': 4}","{'mild/not relevant': '6 (60.0%)', 'cold': '4 (40.0%)'}"
+nao,germany,10,4,"{'mild/not relevant': 8, 'cold': 2}","{'mild/not relevant': '8 (80.0%)', 'cold': '2 (20.0%)'}"
+"pv, polarvortex",germany,10,1,"{'mild/not relevant': 9, 'cold': 1}","{'mild/not relevant': '9 (90.0%)', 'cold': '1 (10.0%)'}"
+polarvortex,germany,10,2,"{'mild/not relevant': 4, 'cold': 3, 'hot': 2, 'very cold': 1}","{'mild/not relevant': '4 (40.0%)', 'cold': '3 (30.0%)', 'hot': '2 (20.0%)', 'very cold': '1 (10.0%)'}"
+storm,uk,10,7,"{'cold': 7, 'mild/not relevant': 3}","{'cold': '7 (70.0%)', 'mild/not relevant': '3 (30.0%)'}"
+blocking,turkey,10,6,"{'cold': 6, 'mild/not relevant': 4}","{'cold': '6 (60.0%)', 'mild/not relevant': '4 (40.0%)'}"
+"cold, snow, air",russia,9,4,"{'cold': 6, 'mild/not relevant': 2, 'very cold': 1}","{'cold': '6 (66.7%)', 'mild/not relevant': '2 (22.2%)', 'very cold': '1 (11.1%)'}"
+"pv, blocking",united states,9,6,"{'mild/not relevant': 6, 'cold': 3}","{'mild/not relevant': '6 (66.7%)', 'cold': '3 (33.3%)'}"
+"cold, snow, air",florida,9,1,"{'cold': 7, 'mild/not relevant': 2}","{'cold': '7 (77.8%)', 'mild/not relevant': '2 (22.2%)'}"
+"blocking, nao",united states,9,5,"{'mild/not relevant': 8, 'cold': 1}","{'mild/not relevant': '8 (88.9%)', 'cold': '1 (11.1%)'}"
+blocking,iceland,9,4,"{'cold': 7, 'mild/not relevant': 2}","{'cold': '7 (77.8%)', 'mild/not relevant': '2 (22.2%)'}"
+"pv, polarvortex",united states,9,2,"{'cold': 5, 'mild/not relevant': 3, 'hot': 1}","{'cold': '5 (55.6%)', 'mild/not relevant': '3 (33.3%)', 'hot': '1 (11.1%)'}"
+northerly,united kingdom,9,5,{'cold': 9},{'cold': '9 (100.0%)'}
+blocking,sweden,8,3,"{'cold': 5, 'mild/not relevant': 2, 'hot': 1}","{'cold': '5 (62.5%)', 'mild/not relevant': '2 (25.0%)', 'hot': '1 (12.5%)'}"
+"winter, cold, weather",uk,8,5,"{'cold': 4, 'mild/not relevant': 4}","{'cold': '4 (50.0%)', 'mild/not relevant': '4 (50.0%)'}"
+beastfromtheeast,germany,8,4,"{'cold': 5, 'very cold': 3}","{'cold': '5 (62.5%)', 'very cold': '3 (37.5%)'}"
+blocking,netherlands,8,4,"{'cold': 6, 'mild/not relevant': 2}","{'cold': '6 (75.0%)', 'mild/not relevant': '2 (25.0%)'}"
+storm,liechtenstein,7,3,"{'cold': 4, 'mild/not relevant': 3}","{'cold': '4 (57.1%)', 'mild/not relevant': '3 (42.9%)'}"
+pv,united kingdom,7,3,"{'mild/not relevant': 4, 'cold': 2, 'hot': 1}","{'mild/not relevant': '4 (57.1%)', 'cold': '2 (28.6%)', 'hot': '1 (14.3%)'}"
+"winter, cold, weather",greece,7,3,"{'cold': 4, 'mild/not relevant': 3}","{'cold': '4 (57.1%)', 'mild/not relevant': '3 (42.9%)'}"
+"blocking, northerly",Unknown,7,5,"{'cold': 5, 'mild/not relevant': 2}","{'cold': '5 (71.4%)', 'mild/not relevant': '2 (28.6%)'}"
+ssw,france,7,4,"{'mild/not relevant': 4, 'cold': 3}","{'mild/not relevant': '4 (57.1%)', 'cold': '3 (42.9%)'}"
+nao,united kingdom,7,5,"{'mild/not relevant': 6, 'cold': 1}","{'mild/not relevant': '6 (85.7%)', 'cold': '1 (14.3%)'}"
+ssts,united states,7,4,"{'mild/not relevant': 3, 'hot': 2, 'cold': 2}","{'mild/not relevant': '3 (42.9%)', 'hot': '2 (28.6%)', 'cold': '2 (28.6%)'}"
+"cold, snow, air",anomaly,7,4,"{'mild/not relevant': 5, 'cold': 2}","{'mild/not relevant': '5 (71.4%)', 'cold': '2 (28.6%)'}"
+"pv, ssw",united states,7,5,"{'cold': 4, 'mild/not relevant': 3}","{'cold': '4 (57.1%)', 'mild/not relevant': '3 (42.9%)'}"
+"cold, snow, z",ireland,7,3,"{'cold': 4, 'mild/not relevant': 3}","{'cold': '4 (57.1%)', 'mild/not relevant': '3 (42.9%)'}"
+storm,stormciara,6,3,{'cold': 6},{'cold': '6 (100.0%)'}
+"pv, ssw",norway,6,4,"{'mild/not relevant': 4, 'cold': 1, 'very cold': 1}","{'mild/not relevant': '4 (66.7%)', 'cold': '1 (16.7%)', 'very cold': '1 (16.7%)'}"
+"pv, polarvortex",norway,6,2,"{'mild/not relevant': 5, 'cold': 1}","{'mild/not relevant': '5 (83.3%)', 'cold': '1 (16.7%)'}"
+"cold, snow, z",iceland,6,5,"{'cold': 4, 'mild/not relevant': 2}","{'cold': '4 (66.7%)', 'mild/not relevant': '2 (33.3%)'}"
+storm,spain,6,4,"{'cold': 4, 'mild/not relevant': 1, 'hot': 1}","{'cold': '4 (66.7%)', 'mild/not relevant': '1 (16.7%)', 'hot': '1 (16.7%)'}"
+"cold, snow, z",scotland,6,3,"{'cold': 4, 'mild/not relevant': 2}","{'cold': '4 (66.7%)', 'mild/not relevant': '2 (33.3%)'}"
+"snow, cold, uksnow",britain,6,1,"{'cold': 3, 'mild/not relevant': 3}","{'cold': '3 (50.0%)', 'mild/not relevant': '3 (50.0%)'}"
+storm,palm beach,6,1,"{'cold': 5, 'mild/not relevant': 1}","{'cold': '5 (83.3%)', 'mild/not relevant': '1 (16.7%)'}"
+"cold, snow, air",austria,6,5,"{'cold': 4, 'mild/not relevant': 2}","{'cold': '4 (66.7%)', 'mild/not relevant': '2 (33.3%)'}"
+"winter, cold, weather",canada,6,2,"{'cold': 4, 'mild/not relevant': 2}","{'cold': '4 (66.7%)', 'mild/not relevant': '2 (33.3%)'}"
+"cold, snow, air",albania,6,3,"{'mild/not relevant': 5, 'very cold': 1}","{'mild/not relevant': '5 (83.3%)', 'very cold': '1 (16.7%)'}"
+"winter, cold, weather",anomaly,6,5,"{'cold': 3, 'mild/not relevant': 2, 'hot': 1}","{'cold': '3 (50.0%)', 'mild/not relevant': '2 (33.3%)', 'hot': '1 (16.7%)'}"
+blocking,uk,6,6,"{'cold': 5, 'very cold': 1}","{'cold': '5 (83.3%)', 'very cold': '1 (16.7%)'}"
+beastfromtheeast,united kingdom,6,4,"{'cold': 5, 'very cold': 1}","{'cold': '5 (83.3%)', 'very cold': '1 (16.7%)'}"
+"pv, nao",Unknown,5,1,{'mild/not relevant': 5},{'mild/not relevant': '5 (100.0%)'}
+"storm, ssts",united states,5,3,"{'mild/not relevant': 3, 'cold': 2}","{'mild/not relevant': '3 (60.0%)', 'cold': '2 (40.0%)'}"
+"winter, cold, weather",switzerland,5,5,"{'cold': 3, 'mild/not relevant': 2}","{'cold': '3 (60.0%)', 'mild/not relevant': '2 (40.0%)'}"
+nao,iceland,5,2,{'mild/not relevant': 5},{'mild/not relevant': '5 (100.0%)'}
+"nao, storm",Unknown,5,3,{'mild/not relevant': 5},{'mild/not relevant': '5 (100.0%)'}
+"cold, snow, air",belgium,5,2,"{'mild/not relevant': 4, 'cold': 1}","{'mild/not relevant': '4 (80.0%)', 'cold': '1 (20.0%)'}"
+ssts,germany,5,2,"{'hot': 3, 'mild/not relevant': 1, 'cold': 1}","{'hot': '3 (60.0%)', 'mild/not relevant': '1 (20.0%)', 'cold': '1 (20.0%)'}"
+blocking,russia,5,3,"{'mild/not relevant': 3, 'cold': 2}","{'mild/not relevant': '3 (60.0%)', 'cold': '2 (40.0%)'}"
+blocking,ireland,5,2,"{'cold': 3, 'mild/not relevant': 2}","{'cold': '3 (60.0%)', 'mild/not relevant': '2 (40.0%)'}"
+"pv, ssw",united kingdom,5,2,"{'mild/not relevant': 4, 'cold': 1}","{'mild/not relevant': '4 (80.0%)', 'cold': '1 (20.0%)'}"
+"winter, cold, weather",america,5,5,"{'cold': 3, 'mild/not relevant': 2}","{'cold': '3 (60.0%)', 'mild/not relevant': '2 (40.0%)'}"
+blocking,anomaly,5,3,"{'mild/not relevant': 3, 'cold': 2}","{'mild/not relevant': '3 (60.0%)', 'cold': '2 (40.0%)'}"
+"winter, cold, weather",alaska,5,3,{'cold': 5},{'cold': '5 (100.0%)'}
+"snow, cold, uksnow",switzerland,5,4,"{'cold': 2, 'very cold': 2, 'mild/not relevant': 1}","{'cold': '2 (40.0%)', 'very cold': '2 (40.0%)', 'mild/not relevant': '1 (20.0%)'}"
+"winter, cold, weather",iceland,5,2,"{'cold': 4, 'mild/not relevant': 1}","{'cold': '4 (80.0%)', 'mild/not relevant': '1 (20.0%)'}"
+pv,russia,5,3,"{'mild/not relevant': 4, 'very cold': 1}","{'mild/not relevant': '4 (80.0%)', 'very cold': '1 (20.0%)'}"
+polarvortex,france,5,2,"{'mild/not relevant': 3, 'very cold': 1, 'cold': 1}","{'mild/not relevant': '3 (60.0%)', 'very cold': '1 (20.0%)', 'cold': '1 (20.0%)'}"
+storm,greece,5,4,"{'cold': 4, 'mild/not relevant': 1}","{'cold': '4 (80.0%)', 'mild/not relevant': '1 (20.0%)'}"
+storm,canada,5,5,{'cold': 5},{'cold': '5 (100.0%)'}
+"polarvortex, ssw",norway,5,2,"{'mild/not relevant': 4, 'cold': 1}","{'mild/not relevant': '4 (80.0%)', 'cold': '1 (20.0%)'}"
+"cold, snow, z",austria,5,3,"{'cold': 3, 'mild/not relevant': 2}","{'cold': '3 (60.0%)', 'mild/not relevant': '2 (40.0%)'}"
+"northerly, storm",Unknown,5,3,"{'cold': 4, 'mild/not relevant': 1}","{'cold': '4 (80.0%)', 'mild/not relevant': '1 (20.0%)'}"
+"northerly, storm",united states,5,4,{'cold': 5},{'cold': '5 (100.0%)'}
+storm,portugal,4,4,"{'cold': 2, 'mild/not relevant': 2}","{'cold': '2 (50.0%)', 'mild/not relevant': '2 (50.0%)'}"
+"polarvortex, nao",Unknown,4,3,"{'mild/not relevant': 3, 'cold': 1}","{'mild/not relevant': '3 (75.0%)', 'cold': '1 (25.0%)'}"
+storm,belgium,4,4,"{'cold': 3, 'very cold': 1}","{'cold': '3 (75.0%)', 'very cold': '1 (25.0%)'}"
+"blocking, nao",united kingdom,4,3,{'mild/not relevant': 4},{'mild/not relevant': '4 (100.0%)'}
+"pv, polarvortex, blocking",Unknown,4,1,"{'mild/not relevant': 2, 'cold': 2}","{'mild/not relevant': '2 (50.0%)', 'cold': '2 (50.0%)'}"
+"cold, snow, z",switzerland,4,4,"{'cold': 2, 'mild/not relevant': 2}","{'cold': '2 (50.0%)', 'mild/not relevant': '2 (50.0%)'}"
+polarvortex,united kingdom,4,1,"{'cold': 3, 'mild/not relevant': 1}","{'cold': '3 (75.0%)', 'mild/not relevant': '1 (25.0%)'}"
+"nao, ssw",Unknown,4,2,{'mild/not relevant': 4},{'mild/not relevant': '4 (100.0%)'}
+"winter, cold, weather",finland,4,3,"{'mild/not relevant': 3, 'cold': 1}","{'mild/not relevant': '3 (75.0%)', 'cold': '1 (25.0%)'}"
+ssw,netherlands,4,3,"{'cold': 3, 'mild/not relevant': 1}","{'cold': '3 (75.0%)', 'mild/not relevant': '1 (25.0%)'}"
+ssw,russia,4,3,"{'cold': 2, 'mild/not relevant': 2}","{'cold': '2 (50.0%)', 'mild/not relevant': '2 (50.0%)'}"
+"blocking, polarvortex",united states,4,1,"{'cold': 3, 'mild/not relevant': 1}","{'cold': '3 (75.0%)', 'mild/not relevant': '1 (25.0%)'}"
+"storm, beastfromtheeast",Unknown,4,2,"{'cold': 3, 'mild/not relevant': 1}","{'cold': '3 (75.0%)', 'mild/not relevant': '1 (25.0%)'}"
+"snow, cold, uksnow",finland,4,3,{'mild/not relevant': 4},{'mild/not relevant': '4 (100.0%)'}
+"cold, snow, z",finland,4,2,"{'cold': 2, 'mild/not relevant': 1, 'very cold': 1}","{'cold': '2 (50.0%)', 'mild/not relevant': '1 (25.0%)', 'very cold': '1 (25.0%)'}"
+"snow, cold, uksnow",iceland,4,2,"{'cold': 3, 'very cold': 1}","{'cold': '3 (75.0%)', 'very cold': '1 (25.0%)'}"
+blocking,france,4,2,{'cold': 4},{'cold': '4 (100.0%)'}
+pv,eurasia,3,3,"{'cold': 1, 'hot': 1, 'mild/not relevant': 1}","{'cold': '1 (33.3%)', 'hot': '1 (33.3%)', 'mild/not relevant': '1 (33.3%)'}"
+"winter, cold, weather",spain,3,3,"{'cold': 2, 'mild/not relevant': 1}","{'cold': '2 (66.7%)', 'mild/not relevant': '1 (33.3%)'}"
+"winter, cold, weather",ireland,3,3,"{'cold': 2, 'mild/not relevant': 1}","{'cold': '2 (66.7%)', 'mild/not relevant': '1 (33.3%)'}"
+northerly,ireland,3,2,"{'cold': 2, 'mild/not relevant': 1}","{'cold': '2 (66.7%)', 'mild/not relevant': '1 (33.3%)'}"
+"blocking, storm",Unknown,3,3,"{'cold': 2, 'mild/not relevant': 1}","{'cold': '2 (66.7%)', 'mild/not relevant': '1 (33.3%)'}"
+northerly,netherlands,3,1,"{'mild/not relevant': 2, 'cold': 1}","{'mild/not relevant': '2 (66.7%)', 'cold': '1 (33.3%)'}"
+northerly,turkey,3,3,"{'mild/not relevant': 1, 'very cold': 1, 'cold': 1}","{'mild/not relevant': '1 (33.3%)', 'very cold': '1 (33.3%)', 'cold': '1 (33.3%)'}"
+"snow, cold, uksnow",italy,3,2,"{'very cold': 1, 'very hot': 1, 'cold': 1}","{'very cold': '1 (33.3%)', 'very hot': '1 (33.3%)', 'cold': '1 (33.3%)'}"
+"pv, ssw",russia,3,1,{'mild/not relevant': 3},{'mild/not relevant': '3 (100.0%)'}
+"winter, cold, weather",la,3,2,"{'mild/not relevant': 2, 'cold': 1}","{'mild/not relevant': '2 (66.7%)', 'cold': '1 (33.3%)'}"
+"snow, cold, uksnow",liechtenstein,3,3,"{'cold': 2, 'mild/not relevant': 1}","{'cold': '2 (66.7%)', 'mild/not relevant': '1 (33.3%)'}"
+storm,west palm beach,3,1,{'cold': 3},{'cold': '3 (100.0%)'}
+"blocking, ssw",germany,3,3,"{'cold': 2, 'mild/not relevant': 1}","{'cold': '2 (66.7%)', 'mild/not relevant': '1 (33.3%)'}"
+"polarvortex, ssw",united kingdom,3,1,{'cold': 3},{'cold': '3 (100.0%)'}
+storm,britain,3,2,"{'cold': 2, 'very cold': 1}","{'cold': '2 (66.7%)', 'very cold': '1 (33.3%)'}"
+polarvortex,canada,3,1,{'cold': 3},{'cold': '3 (100.0%)'}
+"polarvortex, ssw",france,3,2,"{'mild/not relevant': 2, 'cold': 1}","{'mild/not relevant': '2 (66.7%)', 'cold': '1 (33.3%)'}"
+beastfromtheeast,norway,3,2,{'cold': 3},{'cold': '3 (100.0%)'}
+beastfromtheeast,ireland,3,2,{'cold': 3},{'cold': '3 (100.0%)'}
+"polarvortex, beastfromtheeast",Unknown,3,1,{'cold': 3},{'cold': '3 (100.0%)'}
+ssw,ireland,3,2,"{'cold': 2, 'mild/not relevant': 1}","{'cold': '2 (66.7%)', 'mild/not relevant': '1 (33.3%)'}"
+"pv, blocking",croatia,3,2,{'mild/not relevant': 3},{'mild/not relevant': '3 (100.0%)'}
+"cold, snow, air",south west,3,1,{'cold': 3},{'cold': '3 (100.0%)'}
+"snow, cold, uksnow",anomaly,3,3,{'cold': 3},{'cold': '3 (100.0%)'}
+"cold, snow, air",america,3,2,"{'cold': 2, 'mild/not relevant': 1}","{'cold': '2 (66.7%)', 'mild/not relevant': '1 (33.3%)'}"
+blocking,la,3,1,"{'cold': 2, 'mild/not relevant': 1}","{'cold': '2 (66.7%)', 'mild/not relevant': '1 (33.3%)'}"
+"pv, polarvortex",united kingdom,3,1,"{'mild/not relevant': 2, 'cold': 1}","{'mild/not relevant': '2 (66.7%)', 'cold': '1 (33.3%)'}"
+"snow, cold, uksnow",belgium,3,3,"{'cold': 2, 'very cold': 1}","{'cold': '2 (66.7%)', 'very cold': '1 (33.3%)'}"
+"cold, snow, z",russia,3,3,"{'mild/not relevant': 2, 'very cold': 1}","{'mild/not relevant': '2 (66.7%)', 'very cold': '1 (33.3%)'}"
+"storm, ssw",united states,3,3,"{'cold': 2, 'mild/not relevant': 1}","{'cold': '2 (66.7%)', 'mild/not relevant': '1 (33.3%)'}"
+nao,sweden,3,3,{'mild/not relevant': 3},{'mild/not relevant': '3 (100.0%)'}
+blocking,spain,3,2,"{'cold': 2, 'mild/not relevant': 1}","{'cold': '2 (66.7%)', 'mild/not relevant': '1 (33.3%)'}"
+storm,bahamas,2,1,"{'mild/not relevant': 1, 'cold': 1}","{'mild/not relevant': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+"polarvortex, storm",Unknown,2,2,{'mild/not relevant': 2},{'mild/not relevant': '2 (100.0%)'}
+beastfromtheeast,uk,2,1,{'cold': 2},{'cold': '2 (100.0%)'}
+beastfromtheeast,switzerland,2,2,"{'mild/not relevant': 1, 'cold': 1}","{'mild/not relevant': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+ssts,united kingdom,2,2,{'cold': 2},{'cold': '2 (100.0%)'}
+storm,austria,2,2,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+"polarvortex, ssw",russia,2,1,{'mild/not relevant': 2},{'mild/not relevant': '2 (100.0%)'}
+"snow, cold, uksnow",north west,2,2,{'cold': 2},{'cold': '2 (100.0%)'}
+"snow, cold, uksnow",southern county,2,2,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+"pv, polarvortex, ssw",Unknown,2,2,{'cold': 2},{'cold': '2 (100.0%)'}
+"pv, storm",united states,2,2,{'mild/not relevant': 2},{'mild/not relevant': '2 (100.0%)'}
+"polarvortex, nao",germany,2,1,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+ssts,sweden,2,1,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+ssts,norway,2,2,{'mild/not relevant': 2},{'mild/not relevant': '2 (100.0%)'}
+storm,colorado,2,2,{'very cold': 2},{'very cold': '2 (100.0%)'}
+ssw,albania,2,1,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+"pv, polarvortex",alaska,2,1,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+pv,lithuania,2,1,"{'hot': 1, 'mild/not relevant': 1}","{'hot': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+"pv, nao, blocking",Unknown,2,1,{'mild/not relevant': 2},{'mild/not relevant': '2 (100.0%)'}
+"pv, nao",united states,2,2,{'mild/not relevant': 2},{'mild/not relevant': '2 (100.0%)'}
+blocking,austria,2,1,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+"snow, cold, uksnow","england, scotland",2,2,{'cold': 2},{'cold': '2 (100.0%)'}
+"winter, cold, weather",liechtenstein,2,2,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+"blocking, nao",iceland,2,2,{'mild/not relevant': 2},{'mild/not relevant': '2 (100.0%)'}
+"snow, cold, uksnow",florida,2,1,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+"pv, polarvortex",eurasia,2,1,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+"pv, blocking",norway,2,1,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+"pv, blocking",germany,2,1,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+"pv, ssw",turkey,2,2,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+"blocking, nao",norway,2,2,"{'mild/not relevant': 1, 'very cold': 1}","{'mild/not relevant': '1 (50.0%)', 'very cold': '1 (50.0%)'}"
+ssw,switzerland,2,2,"{'mild/not relevant': 1, 'cold': 1}","{'mild/not relevant': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+"winter, cold, weather",japan,2,2,"{'cold': 1, 'hot': 1}","{'cold': '1 (50.0%)', 'hot': '1 (50.0%)'}"
+"winter, cold, weather",lithuania,2,1,"{'mild/not relevant': 1, 'cold': 1}","{'mild/not relevant': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+"winter, cold, weather",texas,2,2,"{'mild/not relevant': 1, 'cold': 1}","{'mild/not relevant': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+ssw,anomaly,2,1,{'mild/not relevant': 2},{'mild/not relevant': '2 (100.0%)'}
+"winter, cold, weather",slovenia,2,2,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+"snow, cold, uksnow",greece,2,2,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+"pv, polarvortex",netherlands,2,1,{'mild/not relevant': 2},{'mild/not relevant': '2 (100.0%)'}
+"winter, cold, weather",florida,2,2,{'mild/not relevant': 2},{'mild/not relevant': '2 (100.0%)'}
+"snow, cold, uksnow",bluerain,2,1,{'mild/not relevant': 2},{'mild/not relevant': '2 (100.0%)'}
+pv,meteomark judah,2,1,{'hot': 2},{'hot': '2 (100.0%)'}
+"snow, cold, uksnow","scotland, scotland",2,2,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+"winter, cold, weather",el nino,2,2,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+"cold, snow, z",spain,2,2,"{'mild/not relevant': 1, 'cold': 1}","{'mild/not relevant': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+"cold, snow, air",alaska,2,1,"{'mild/not relevant': 1, 'cold': 1}","{'mild/not relevant': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+"nao, ssw",united kingdom,2,2,"{'mild/not relevant': 1, 'cold': 1}","{'mild/not relevant': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+storm,monaco,2,2,"{'very cold': 1, 'cold': 1}","{'very cold': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+storm,nicaragua,2,1,{'mild/not relevant': 2},{'mild/not relevant': '2 (100.0%)'}
+nao,uk,2,2,"{'mild/not relevant': 1, 'cold': 1}","{'mild/not relevant': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+storm,"palm beach, vero beach",2,1,{'mild/not relevant': 2},{'mild/not relevant': '2 (100.0%)'}
+storm,panama city,2,1,"{'mild/not relevant': 1, 'cold': 1}","{'mild/not relevant': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+storm,russia,2,1,"{'mild/not relevant': 1, 'cold': 1}","{'mild/not relevant': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+nao,albania,2,1,{'mild/not relevant': 2},{'mild/not relevant': '2 (100.0%)'}
+"cold, snow, air",canada,2,2,{'cold': 2},{'cold': '2 (100.0%)'}
+"winter, cold, weather",albania,2,2,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+"cold, snow, air",east west,2,1,"{'mild/not relevant': 1, 'cold': 1}","{'mild/not relevant': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+northerly,uk,2,2,"{'mild/not relevant': 1, 'very cold': 1}","{'mild/not relevant': '1 (50.0%)', 'very cold': '1 (50.0%)'}"
+"cold, snow, air",finland,2,1,"{'mild/not relevant': 1, 'very cold': 1}","{'mild/not relevant': '1 (50.0%)', 'very cold': '1 (50.0%)'}"
+"cold, snow, air",jetstream,2,2,"{'mild/not relevant': 1, 'cold': 1}","{'mild/not relevant': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+"cold, snow, z",lithuania,2,2,{'cold': 2},{'cold': '2 (100.0%)'}
+"cold, snow, z",liechtenstein,2,1,"{'mild/not relevant': 1, 'cold': 1}","{'mild/not relevant': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+storm,switzerland,2,2,{'cold': 2},{'cold': '2 (100.0%)'}
+"cold, snow, air",liechtenstein,2,2,{'cold': 2},{'cold': '2 (100.0%)'}
+"cold, snow, air",lithuania,2,2,"{'mild/not relevant': 1, 'cold': 1}","{'mild/not relevant': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+"cold, snow, z",england,2,2,{'cold': 2},{'cold': '2 (100.0%)'}
+"storm, ssts",Unknown,2,2,{'cold': 2},{'cold': '2 (100.0%)'}
+"cold, snow, air","west palm beach, vero beach",2,1,{'mild/not relevant': 2},{'mild/not relevant': '2 (100.0%)'}
+"cold, snow, air",ukraine,2,2,"{'mild/not relevant': 1, 'cold': 1}","{'mild/not relevant': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+storm,italy,2,2,{'cold': 2},{'cold': '2 (100.0%)'}
+nao,netherlands,2,1,"{'hot': 1, 'mild/not relevant': 1}","{'hot': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+"blocking, ssw",norway,2,2,{'cold': 2},{'cold': '2 (100.0%)'}
+storm,georgia,2,1,"{'cold': 1, 'mild/not relevant': 1}","{'cold': '1 (50.0%)', 'mild/not relevant': '1 (50.0%)'}"
+polarvortex,eurasia,2,1,"{'mild/not relevant': 1, 'cold': 1}","{'mild/not relevant': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+"winter, cold, weather",china,2,1,{'cold': 2},{'cold': '2 (100.0%)'}
+polarvortex,austria,2,1,{'cold': 2},{'cold': '2 (100.0%)'}
+storm,england,2,2,{'cold': 2},{'cold': '2 (100.0%)'}
+polarvortex,netherlands,2,2,"{'mild/not relevant': 1, 'cold': 1}","{'mild/not relevant': '1 (50.0%)', 'cold': '1 (50.0%)'}"
+"blocking, ssw",croatia,2,2,{'cold': 2},{'cold': '2 (100.0%)'}
+storm,"england south, scotland",1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+ssts,denmark,1,1,{'very cold': 1},{'very cold': '1 (100.0%)'}
+"storm, ssts",norway,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"storm, ssw",england,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather",springno,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"snow, cold, uksnow",𝐓𝐮𝐞𝐬𝐝𝐚𝐲,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,el nino,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+ssts,anomaly,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+storm,"england, england",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,south palm beach county,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather",scotland,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+ssts,iceland,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"storm, ssw",slovenia,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,stormdiana,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"winter, cold, weather",canarywharf,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+ssts,eurasia,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+storm,"stormciara, maine, canada",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,vietnam,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,south west,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather",san marino,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+ssts,ireland,1,1,{'hot': 1},{'hot': '1 (100.0%)'}
+"snow, cold, uksnow",uk hill,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,hungary,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+storm,taiwan,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+ssts,la,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"snow, cold, uksnow",sleetwet,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"snow, cold, uksnow",slovenia,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,ukraine,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather",west europa,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"snow, cold, uksnow",south east,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"snow, cold, uksnow",south west,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,"uk, scotland",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,"vongfong, japan",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,west boca,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"snow, cold, uksnow",southwest county,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather",ukraine,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+storm,west downtown,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"snow, cold, uksnow",ssern county,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,yucatan,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"snow, cold, uksnow",tada,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"snow, cold, uksnow",texas,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+storm,danielle,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,𝐌𝐢𝐜𝐡𝐚𝐞𝐥,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather",u judah,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"storm, ssts",canada,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather","texas, texas",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,texas,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"winter, cold, weather",england,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"winter, cold, weather",enso el nino srn,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"winter, cold, weather","america, anomaly",1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+storm,albania,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"winter, cold, weather",poland,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+ssw,liechtenstein,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+ssw,lithuania,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+storm,"hpa coast, massachusetts",1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+storm,nevada,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather",bsod,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+storm,louisiana,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather",kinlochewe,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+storm,"america, north united",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+ssw,nowjudah,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+storm,lithuania,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+ssw,sweden,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,america,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather",jerusalem,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+storm,jetstream,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,"japan, south korea",1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"winter, cold, weather",bang,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+storm,"japan, japan",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+ssw,turkey,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"winter, cold, weather",britain,1,1,{'very cold': 1},{'very cold': '1 (100.0%)'}
+"winter, cold, weather",italy,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+ssw,uk,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather",belarus,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather",belgium,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,hurricanefiona,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"winter, cold, weather",bosnia and herzegovina,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,north broward county,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+ssw,iceland,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+storm,north carolina,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather",dinsdag,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"winter, cold, weather",north macedonia,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+ssts,russia,1,1,{'hot': 1},{'hot': '1 (100.0%)'}
+ssts,scotland,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+storm,south carolina,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather",europe,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,"somalia, yemen",1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"winter, cold, weather",anomaly large region,1,1,{'hot': 1},{'hot': '1 (100.0%)'}
+storm,poland,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather",malta,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"winter, cold, weather","europerussia, uk",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,hong kong,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"snow, cold, uksnow","scotland, scotland, uk",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather",la nina,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+ssw,aleutian,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+storm,onshore south carolina,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather",anomaly west europe,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+ssw,"anomaly, alaska",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,azerbaijan,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather",argentina,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+ssw,belgium,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"winter, cold, weather",lente,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+ssw,finland,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"winter, cold, weather",latvia,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+storm,north west,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+storm,bulgaria,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"pv, blocking",north west,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"snow, cold, uksnow","scotland, england",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"snow, cold, uksnow","scotland, braemar",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, air",noorden,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, air",new england,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, air",meteomark judah,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, air",malta,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, air",la nina,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, air",la beast east,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, air",la,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, air",keer,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, air","florida, panama city",1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, air",eastern county,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, air",east ana,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, air",denmark,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, air",colorado,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, air",bulgaria,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, air",britain,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, air",braemar,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, air",armenia,1,1,{'very cold': 1},{'very cold': '1 (100.0%)'}
+"cold, snow, air","america, canada",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"blocking, storm, ssw",croatia,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"blocking, storm",united states,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"blocking, storm",united kingdom,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"blocking, storm",russia,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"blocking, ssw",united states,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, air",north carolina,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, air",north west,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, air",palm beach,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, z",italy,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+nao,anomaly euroatlantic,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+nao,anomaly,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+nao,america,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, z",z,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, z",southern county,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, z",south west,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, z",slovakia,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, z",santa sledge,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, z",north west end st week,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, z",nirvana,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, z",height east,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, air",poland,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, z",greece,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, z",eureopan,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, z",bulgaria,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, air","texas, oklahoma",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, air",texas,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, air",switzerland,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, air",southern county,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"cold, snow, air",south symptom,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, air",slovenia,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"cold, snow, air",portugal,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"blocking, ssw",united kingdom,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"blocking, ssw",uk,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"blocking, ssw",turkey,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+blocking,canada,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+blocking,tropstrat,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+blocking,poland,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+blocking,"nirvana, uk",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+blocking,lithuania,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+blocking,liechtenstein,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+blocking,italy,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+blocking,greenland,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+blocking,finland,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+blocking,eurasia,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+blocking,"canada, canada",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+blocking,britain,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+blocking,ukraine,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+blocking,belgium,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+blocking,america,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+blocking,albania,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+blocking,alaska,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+beastfromtheeast,z ecmwf gfs homing,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+beastfromtheeast,sweden,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+beastfromtheeast,south west,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+beastfromtheeast,scotland,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+beastfromtheeast,netherlands,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+beastfromtheeast,liechtenstein,1,1,{'very cold': 1},{'very cold': '1 (100.0%)'}
+blocking,ukeurope,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"blocking, beastfromtheeast",anomaly,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"blocking, ssw",austria,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"blocking, northerly",norway,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"blocking, ssts",norway,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"blocking, polarvortex, ssw",united kingdom,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"blocking, polarvortex, nao",Unknown,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"blocking, polarvortex",uralsscandinavia,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"blocking, polarvortex",netherlands,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"blocking, polarvortex",france,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"blocking, polarvortex",croatia,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"blocking, polarvortex",canada,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"blocking, polarvortex",alaska,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"blocking, northerly",turkey,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"blocking, northerly",iceland,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"blocking, beastfromtheeast, ssw",united kingdom,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"blocking, nao, ssw",anomaly,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"blocking, nao, ssw",Unknown,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"blocking, nao, northerly",united states,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"blocking, nao",uk,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"blocking, nao",turkey,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"blocking, nao",spain,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"blocking, nao",netherlands,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"blocking, nao",germany,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"blocking, nao",britain,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"blocking, nao",america,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+nao,defcon,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+nao,france,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+nao,japan,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, polarvortex",austria,1,1,{'very cold': 1},{'very cold': '1 (100.0%)'}
+"pv, ssts",la nina,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"pv, polarvortex, storm, northerly",Unknown,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"pv, polarvortex, northerly",Unknown,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"pv, polarvortex, blocking",serbia,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, polarvortex, blocking",norway,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, polarvortex",slovenia,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, polarvortex",morocco,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, polarvortex",ireland,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, polarvortex",france,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, polarvortex",belgium,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, polarvortex",america,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"pv, ssw",germany,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, polarvortex",albania,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, northerly",Unknown,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"pv, nao, ssw",croatia,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, nao, ssw",Unknown,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, nao, blocking",united states,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, nao, blocking",united kingdom,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"pv, nao",norway,1,1,{'hot': 1},{'hot': '1 (100.0%)'}
+"pv, blocking, ssw",united kingdom,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"pv, blocking",united kingdom,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, blocking",turkey,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, ssts",uk,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, ssw",ireland,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"pv, beastfromtheeast",Unknown,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"snow, cold, uksnow",jerusalem,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"snow, cold, uksnow",portugal,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"snow, cold, uksnow",poland,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"snow, cold, uksnow",northern county,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"snow, cold, uksnow",north hampshire,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"snow, cold, uksnow",north africa,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"snow, cold, uksnow","nengland, scotland",1,1,{'very cold': 1},{'very cold': '1 (100.0%)'}
+"snow, cold, uksnow",n india,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"snow, cold, uksnow",morocco,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"snow, cold, uksnow",monaco,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"snow, cold, uksnow",lithuania,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"snow, cold, uksnow",hemel,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, storm",Unknown,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"snow, cold, uksnow","england, britain",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"snow, cold, uksnow","england dark, scotland, scotland",1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"snow, cold, uksnow",easternsoutheastern county,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"snow, cold, uksnow",east west,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"snow, cold, uksnow",east anglia,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"snow, cold, uksnow",czechia,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"snow, cold, uksnow",china,1,1,{'very cold': 1},{'very cold': '1 (100.0%)'}
+"snow, cold, uksnow",beijing,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"snow, cold, uksnow",armenia,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, storm, ssw",stormciara,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"pv, blocking",russia,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+pv,yahooooo,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+nao,jetstream,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"nao, ssw",united states,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"northerly, nao",Unknown,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+northerly,sweden,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+northerly,north west,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+northerly,"japan, japan",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+northerly,italy,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+northerly,france,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+northerly,croatia,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"nao, storm, ssw",Unknown,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"nao, storm",iceland,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"nao, storm",germany,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"nao, ssw",uk,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"northerly, polarvortex",turkey,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"nao, ssw",russia,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"nao, ssw",norway,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"nao, ssw",anomaly,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"nao, ssts",norway,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"nao, ssts",iceland,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"nao, ssts",Unknown,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"nao, beastfromtheeast",Unknown,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+nao,switzerland,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+nao,novdecjan,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+nao,north british,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"northerly, nao",norway,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"northerly, polarvortex",united states,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+pv,uk,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"polarvortex, ssw",switzerland,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+pv,turkey,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+pv,texas,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+pv,spain,1,1,{'very cold': 1},{'very cold': '1 (100.0%)'}
+pv,ohio,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+pv,liechtenstein,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+pv,la,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+pv,judah,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+pv,finland,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+pv,"canada, west greenland",1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"polarvortex, ssw",united states,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"polarvortex, ssw",polarvortex judah,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"northerly, ssw",Unknown,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+"polarvortex, ssw",greece,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"polarvortex, beastfromtheeast",united kingdom,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+polarvortex,switzerland,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+polarvortex,italy,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+polarvortex,bulgaria,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+polarvortex,"anomaly, alaska",1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+polarvortex,anomaly,1,1,{'very cold': 1},{'very cold': '1 (100.0%)'}
+polarvortex,andorra,1,1,{'mild/not relevant': 1},{'mild/not relevant': '1 (100.0%)'}
+polarvortex,alaska,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"northerly, storm",germany,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
+"winter, cold, weather",west warm,1,1,{'cold': 1},{'cold': '1 (100.0%)'}
