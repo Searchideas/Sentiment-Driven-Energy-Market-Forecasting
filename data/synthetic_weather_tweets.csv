@@ -1,0 +1,1001 @@
+tweet_id,text,label
+1,"What a very cold day, the wind is calm!",0
+2,"Can't believe how hot it is, and it's also windy.",3
+3,"Can't believe how very hot it is, and it's also windy.",4
+4,"It's very hot, but thankfully the wind isn't too calm.",4
+5,"It's very cold today, and the wind is neutral. Stay safe out there!",0
+6,"The weather is cold, and it's quite calm outside.",1
+7,"It's hot, but thankfully the wind isn't too windy.",3
+8,"It's very cold today, and the wind is windy. Stay safe out there!",0
+9,Feeling cold with the calm breeze coming in.,1
+10,"It's very hot today, and the wind is very windy. Stay safe out there!",4
+11,A very cold morning and a neutral wind makes it hard to go out.,0
+12,"Such a cold day, but the wind is windy.",1
+13,"Can't believe how neutral it is, and it's also very windy.",2
+14,"Can't believe how very hot it is, and it's also breezy.",4
+15,"It's very hot today, and the wind is calm. Stay safe out there!",4
+16,"Experiencing cold weather, and the breezy wind is blowing hard.",1
+17,"Experiencing very cold weather, and the neutral wind is blowing hard.",0
+18,"What a hot day, the wind is very windy!",3
+19,"What a cold day, the wind is windy!",1
+20,very cold temperatures with very windy winds today.,0
+21,"Such a cold day, but the wind is neutral.",1
+22,"The weather is very cold, and it's quite windy outside.",0
+23,"It's cold, but thankfully the wind isn't too neutral.",1
+24,"What a cold day, the wind is breezy!",1
+25,"It's very cold, but thankfully the wind isn't too calm.",0
+26,A hot morning and a neutral wind makes it hard to go out.,3
+27,"The weather is very cold, and it's quite windy outside.",0
+28,"Experiencing very cold weather, and the very windy wind is blowing hard.",0
+29,"Experiencing hot weather, and the breezy wind is blowing hard.",3
+30,"Such a very hot day, but the wind is neutral.",4
+31,"It's neutral today, and the wind is very windy. Stay safe out there!",2
+32,"The weather is neutral, and it's quite very windy outside.",2
+33,"The weather is neutral, and it's quite calm outside.",2
+34,"Experiencing very hot weather, and the calm wind is blowing hard.",4
+35,"The weather is cold, and it's quite breezy outside.",1
+36,"What a very hot day, the wind is windy!",4
+37,Feeling hot with the windy breeze coming in.,3
+38,Feeling cold with the neutral breeze coming in.,1
+39,"It's very cold, but thankfully the wind isn't too very windy.",0
+40,Feeling cold with the very windy breeze coming in.,1
+41,"Such a neutral day, but the wind is very windy.",2
+42,very cold temperatures with neutral winds today.,0
+43,A neutral morning and a neutral wind makes it hard to go out.,2
+44,A cold morning and a windy wind makes it hard to go out.,1
+45,"It's hot, but thankfully the wind isn't too windy.",3
+46,A very cold morning and a calm wind makes it hard to go out.,0
+47,very cold temperatures with calm winds today.,0
+48,A very hot morning and a very windy wind makes it hard to go out.,4
+49,"Experiencing hot weather, and the breezy wind is blowing hard.",3
+50,"Can't believe how cold it is, and it's also very windy.",1
+51,"The weather is very cold, and it's quite calm outside.",0
+52,"What a cold day, the wind is calm!",1
+53,"It's very hot, but thankfully the wind isn't too neutral.",4
+54,"The weather is cold, and it's quite breezy outside.",1
+55,"It's cold today, and the wind is breezy. Stay safe out there!",1
+56,Feeling cold with the calm breeze coming in.,1
+57,A very cold morning and a breezy wind makes it hard to go out.,0
+58,"Can't believe how cold it is, and it's also windy.",1
+59,"Such a very cold day, but the wind is very windy.",0
+60,"It's hot, but thankfully the wind isn't too very windy.",3
+61,"Can't believe how hot it is, and it's also neutral.",3
+62,"The weather is very cold, and it's quite very windy outside.",0
+63,cold temperatures with windy winds today.,1
+64,"Can't believe how cold it is, and it's also windy.",1
+65,Feeling cold with the neutral breeze coming in.,1
+66,Feeling cold with the neutral breeze coming in.,1
+67,"Can't believe how very hot it is, and it's also windy.",4
+68,"Such a cold day, but the wind is calm.",1
+69,"What a very cold day, the wind is neutral!",0
+70,"It's very cold today, and the wind is very windy. Stay safe out there!",0
+71,"It's cold, but thankfully the wind isn't too neutral.",1
+72,neutral temperatures with neutral winds today.,2
+73,Feeling cold with the very windy breeze coming in.,1
+74,hot temperatures with very windy winds today.,3
+75,"It's hot today, and the wind is windy. Stay safe out there!",3
+76,"It's neutral, but thankfully the wind isn't too calm.",2
+77,Feeling neutral with the neutral breeze coming in.,2
+78,"The weather is hot, and it's quite breezy outside.",3
+79,very hot temperatures with very windy winds today.,4
+80,A neutral morning and a neutral wind makes it hard to go out.,2
+81,Feeling cold with the very windy breeze coming in.,1
+82,"The weather is very cold, and it's quite windy outside.",0
+83,cold temperatures with neutral winds today.,1
+84,Feeling very cold with the very windy breeze coming in.,0
+85,Feeling very cold with the calm breeze coming in.,0
+86,"The weather is neutral, and it's quite calm outside.",2
+87,Feeling neutral with the very windy breeze coming in.,2
+88,"Such a cold day, but the wind is breezy.",1
+89,hot temperatures with very windy winds today.,3
+90,"The weather is very hot, and it's quite neutral outside.",4
+91,"What a very cold day, the wind is calm!",0
+92,"The weather is neutral, and it's quite very windy outside.",2
+93,"Can't believe how cold it is, and it's also calm.",1
+94,Feeling very cold with the very windy breeze coming in.,0
+95,A cold morning and a windy wind makes it hard to go out.,1
+96,"Such a cold day, but the wind is windy.",1
+97,A cold morning and a very windy wind makes it hard to go out.,1
+98,"It's neutral today, and the wind is windy. Stay safe out there!",2
+99,Feeling hot with the neutral breeze coming in.,3
+100,"It's cold, but thankfully the wind isn't too calm.",1
+101,"Such a very hot day, but the wind is neutral.",4
+102,A hot morning and a neutral wind makes it hard to go out.,3
+103,Feeling very cold with the breezy breeze coming in.,0
+104,"The weather is very hot, and it's quite neutral outside.",4
+105,Feeling very hot with the windy breeze coming in.,4
+106,"Experiencing neutral weather, and the very windy wind is blowing hard.",2
+107,"What a hot day, the wind is very windy!",3
+108,A hot morning and a very windy wind makes it hard to go out.,3
+109,"What a hot day, the wind is very windy!",3
+110,"It's neutral today, and the wind is very windy. Stay safe out there!",2
+111,"It's very hot, but thankfully the wind isn't too very windy.",4
+112,cold temperatures with calm winds today.,1
+113,"It's neutral, but thankfully the wind isn't too calm.",2
+114,"It's cold today, and the wind is breezy. Stay safe out there!",1
+115,"The weather is cold, and it's quite calm outside.",1
+116,"Such a neutral day, but the wind is windy.",2
+117,"What a neutral day, the wind is breezy!",2
+118,"Experiencing hot weather, and the breezy wind is blowing hard.",3
+119,"Experiencing hot weather, and the neutral wind is blowing hard.",3
+120,"Experiencing neutral weather, and the calm wind is blowing hard.",2
+121,"Experiencing hot weather, and the very windy wind is blowing hard.",3
+122,A cold morning and a breezy wind makes it hard to go out.,1
+123,A very cold morning and a very windy wind makes it hard to go out.,0
+124,A cold morning and a windy wind makes it hard to go out.,1
+125,Feeling very hot with the calm breeze coming in.,4
+126,"Such a very hot day, but the wind is breezy.",4
+127,Feeling neutral with the breezy breeze coming in.,2
+128,neutral temperatures with windy winds today.,2
+129,"Such a cold day, but the wind is calm.",1
+130,"What a hot day, the wind is windy!",3
+131,"Experiencing very cold weather, and the neutral wind is blowing hard.",0
+132,Feeling very hot with the windy breeze coming in.,4
+133,"It's hot, but thankfully the wind isn't too neutral.",3
+134,"The weather is hot, and it's quite calm outside.",3
+135,"It's very hot, but thankfully the wind isn't too breezy.",4
+136,"What a very hot day, the wind is windy!",4
+137,A hot morning and a very windy wind makes it hard to go out.,3
+138,"It's cold, but thankfully the wind isn't too neutral.",1
+139,"It's cold today, and the wind is very windy. Stay safe out there!",1
+140,"Can't believe how cold it is, and it's also very windy.",1
+141,"Experiencing hot weather, and the neutral wind is blowing hard.",3
+142,"Experiencing cold weather, and the breezy wind is blowing hard.",1
+143,"The weather is neutral, and it's quite very windy outside.",2
+144,"The weather is hot, and it's quite calm outside.",3
+145,very cold temperatures with windy winds today.,0
+146,"What a very cold day, the wind is calm!",0
+147,very hot temperatures with windy winds today.,4
+148,"Such a neutral day, but the wind is windy.",2
+149,"Experiencing neutral weather, and the very windy wind is blowing hard.",2
+150,cold temperatures with calm winds today.,1
+151,very hot temperatures with calm winds today.,4
+152,A very hot morning and a calm wind makes it hard to go out.,4
+153,"Experiencing cold weather, and the windy wind is blowing hard.",1
+154,"Such a hot day, but the wind is breezy.",3
+155,"It's very hot today, and the wind is calm. Stay safe out there!",4
+156,"Experiencing cold weather, and the windy wind is blowing hard.",1
+157,"Experiencing hot weather, and the neutral wind is blowing hard.",3
+158,neutral temperatures with calm winds today.,2
+159,"Can't believe how neutral it is, and it's also neutral.",2
+160,"Such a cold day, but the wind is very windy.",1
+161,"Such a hot day, but the wind is neutral.",3
+162,"It's neutral today, and the wind is breezy. Stay safe out there!",2
+163,"Experiencing very hot weather, and the very windy wind is blowing hard.",4
+164,"Can't believe how hot it is, and it's also windy.",3
+165,"Can't believe how neutral it is, and it's also windy.",2
+166,"It's cold, but thankfully the wind isn't too breezy.",1
+167,"Such a very cold day, but the wind is neutral.",0
+168,"What a very hot day, the wind is calm!",4
+169,"Can't believe how cold it is, and it's also neutral.",1
+170,A very cold morning and a very windy wind makes it hard to go out.,0
+171,A very cold morning and a neutral wind makes it hard to go out.,0
+172,"What a very hot day, the wind is neutral!",4
+173,"It's hot today, and the wind is neutral. Stay safe out there!",3
+174,"It's very cold today, and the wind is breezy. Stay safe out there!",0
+175,Feeling hot with the very windy breeze coming in.,3
+176,A very hot morning and a very windy wind makes it hard to go out.,4
+177,"It's cold today, and the wind is windy. Stay safe out there!",1
+178,"What a very cold day, the wind is windy!",0
+179,A neutral morning and a very windy wind makes it hard to go out.,2
+180,"Experiencing cold weather, and the very windy wind is blowing hard.",1
+181,"It's neutral today, and the wind is breezy. Stay safe out there!",2
+182,"It's very hot today, and the wind is calm. Stay safe out there!",4
+183,"Experiencing neutral weather, and the very windy wind is blowing hard.",2
+184,"Experiencing very hot weather, and the breezy wind is blowing hard.",4
+185,Feeling neutral with the very windy breeze coming in.,2
+186,Feeling neutral with the windy breeze coming in.,2
+187,"Can't believe how cold it is, and it's also calm.",1
+188,"It's hot, but thankfully the wind isn't too neutral.",3
+189,A very hot morning and a breezy wind makes it hard to go out.,4
+190,"The weather is very hot, and it's quite breezy outside.",4
+191,"Experiencing very hot weather, and the very windy wind is blowing hard.",4
+192,"Experiencing very hot weather, and the neutral wind is blowing hard.",4
+193,"It's neutral, but thankfully the wind isn't too neutral.",2
+194,"Can't believe how very hot it is, and it's also calm.",4
+195,"It's cold today, and the wind is breezy. Stay safe out there!",1
+196,"The weather is hot, and it's quite calm outside.",3
+197,Feeling neutral with the breezy breeze coming in.,2
+198,"The weather is neutral, and it's quite calm outside.",2
+199,A neutral morning and a windy wind makes it hard to go out.,2
+200,very hot temperatures with windy winds today.,4
+201,"The weather is very cold, and it's quite breezy outside.",0
+202,"Such a cold day, but the wind is breezy.",1
+203,hot temperatures with windy winds today.,3
+204,Feeling very hot with the windy breeze coming in.,4
+205,"What a very hot day, the wind is neutral!",4
+206,A hot morning and a calm wind makes it hard to go out.,3
+207,very cold temperatures with calm winds today.,0
+208,"It's cold today, and the wind is windy. Stay safe out there!",1
+209,"It's cold today, and the wind is breezy. Stay safe out there!",1
+210,"Can't believe how hot it is, and it's also calm.",3
+211,"It's neutral, but thankfully the wind isn't too neutral.",2
+212,"The weather is cold, and it's quite calm outside.",1
+213,Feeling neutral with the neutral breeze coming in.,2
+214,"It's very hot, but thankfully the wind isn't too breezy.",4
+215,"Can't believe how very hot it is, and it's also calm.",4
+216,cold temperatures with calm winds today.,1
+217,"The weather is very cold, and it's quite breezy outside.",0
+218,"What a very cold day, the wind is very windy!",0
+219,Feeling neutral with the windy breeze coming in.,2
+220,"It's hot today, and the wind is breezy. Stay safe out there!",3
+221,very hot temperatures with calm winds today.,4
+222,"What a cold day, the wind is very windy!",1
+223,"The weather is cold, and it's quite very windy outside.",1
+224,"Such a cold day, but the wind is neutral.",1
+225,"The weather is neutral, and it's quite very windy outside.",2
+226,very hot temperatures with breezy winds today.,4
+227,A very cold morning and a very windy wind makes it hard to go out.,0
+228,"Such a hot day, but the wind is windy.",3
+229,"What a neutral day, the wind is breezy!",2
+230,"What a hot day, the wind is breezy!",3
+231,Feeling neutral with the neutral breeze coming in.,2
+232,"Such a neutral day, but the wind is calm.",2
+233,Feeling cold with the calm breeze coming in.,1
+234,A neutral morning and a very windy wind makes it hard to go out.,2
+235,"What a hot day, the wind is windy!",3
+236,A very cold morning and a windy wind makes it hard to go out.,0
+237,"The weather is hot, and it's quite windy outside.",3
+238,"The weather is very cold, and it's quite calm outside.",0
+239,Feeling very cold with the very windy breeze coming in.,0
+240,very hot temperatures with very windy winds today.,4
+241,hot temperatures with windy winds today.,3
+242,"Such a cold day, but the wind is windy.",1
+243,"What a hot day, the wind is very windy!",3
+244,"Such a very cold day, but the wind is very windy.",0
+245,"It's hot today, and the wind is calm. Stay safe out there!",3
+246,"It's hot, but thankfully the wind isn't too windy.",3
+247,"It's very cold today, and the wind is neutral. Stay safe out there!",0
+248,"It's neutral today, and the wind is breezy. Stay safe out there!",2
+249,Feeling hot with the neutral breeze coming in.,3
+250,"Can't believe how hot it is, and it's also calm.",3
+251,"Such a cold day, but the wind is windy.",1
+252,Feeling neutral with the breezy breeze coming in.,2
+253,"It's hot today, and the wind is calm. Stay safe out there!",3
+254,"Can't believe how neutral it is, and it's also breezy.",2
+255,A neutral morning and a neutral wind makes it hard to go out.,2
+256,"Experiencing neutral weather, and the neutral wind is blowing hard.",2
+257,"What a neutral day, the wind is very windy!",2
+258,"Such a very hot day, but the wind is very windy.",4
+259,"It's hot, but thankfully the wind isn't too windy.",3
+260,"Such a very cold day, but the wind is very windy.",0
+261,"Such a neutral day, but the wind is calm.",2
+262,"Can't believe how hot it is, and it's also breezy.",3
+263,A very cold morning and a windy wind makes it hard to go out.,0
+264,"The weather is hot, and it's quite windy outside.",3
+265,A hot morning and a very windy wind makes it hard to go out.,3
+266,"What a cold day, the wind is neutral!",1
+267,"It's cold today, and the wind is neutral. Stay safe out there!",1
+268,"It's cold today, and the wind is breezy. Stay safe out there!",1
+269,A very hot morning and a calm wind makes it hard to go out.,4
+270,"It's neutral today, and the wind is windy. Stay safe out there!",2
+271,"What a hot day, the wind is calm!",3
+272,"The weather is hot, and it's quite windy outside.",3
+273,A very hot morning and a very windy wind makes it hard to go out.,4
+274,cold temperatures with calm winds today.,1
+275,"It's neutral today, and the wind is calm. Stay safe out there!",2
+276,Feeling very cold with the windy breeze coming in.,0
+277,A very cold morning and a breezy wind makes it hard to go out.,0
+278,"Experiencing hot weather, and the neutral wind is blowing hard.",3
+279,"Experiencing very cold weather, and the very windy wind is blowing hard.",0
+280,A very hot morning and a windy wind makes it hard to go out.,4
+281,"The weather is hot, and it's quite very windy outside.",3
+282,A hot morning and a breezy wind makes it hard to go out.,3
+283,neutral temperatures with calm winds today.,2
+284,"The weather is very cold, and it's quite windy outside.",0
+285,"Such a cold day, but the wind is neutral.",1
+286,"It's cold today, and the wind is windy. Stay safe out there!",1
+287,very cold temperatures with very windy winds today.,0
+288,"It's hot, but thankfully the wind isn't too calm.",3
+289,"What a very cold day, the wind is calm!",0
+290,"It's hot today, and the wind is breezy. Stay safe out there!",3
+291,Feeling neutral with the neutral breeze coming in.,2
+292,"It's neutral today, and the wind is very windy. Stay safe out there!",2
+293,"What a neutral day, the wind is windy!",2
+294,"Can't believe how very hot it is, and it's also calm.",4
+295,neutral temperatures with very windy winds today.,2
+296,"Such a cold day, but the wind is neutral.",1
+297,neutral temperatures with neutral winds today.,2
+298,"It's very cold, but thankfully the wind isn't too neutral.",0
+299,Feeling neutral with the breezy breeze coming in.,2
+300,"Such a cold day, but the wind is breezy.",1
+301,A very cold morning and a very windy wind makes it hard to go out.,0
+302,A hot morning and a neutral wind makes it hard to go out.,3
+303,"Can't believe how very cold it is, and it's also windy.",0
+304,"Experiencing neutral weather, and the breezy wind is blowing hard.",2
+305,"Such a very hot day, but the wind is windy.",4
+306,"Can't believe how very hot it is, and it's also neutral.",4
+307,"Can't believe how very cold it is, and it's also calm.",0
+308,"Such a very cold day, but the wind is calm.",0
+309,"What a hot day, the wind is breezy!",3
+310,"The weather is cold, and it's quite neutral outside.",1
+311,A hot morning and a breezy wind makes it hard to go out.,3
+312,"It's cold, but thankfully the wind isn't too neutral.",1
+313,"It's neutral today, and the wind is windy. Stay safe out there!",2
+314,"Experiencing neutral weather, and the very windy wind is blowing hard.",2
+315,"Can't believe how neutral it is, and it's also windy.",2
+316,"Such a cold day, but the wind is calm.",1
+317,A very cold morning and a windy wind makes it hard to go out.,0
+318,"Such a cold day, but the wind is neutral.",1
+319,"What a very hot day, the wind is windy!",4
+320,A neutral morning and a calm wind makes it hard to go out.,2
+321,"Such a hot day, but the wind is neutral.",3
+322,A very hot morning and a breezy wind makes it hard to go out.,4
+323,"Can't believe how cold it is, and it's also windy.",1
+324,Feeling neutral with the windy breeze coming in.,2
+325,"What a hot day, the wind is very windy!",3
+326,"The weather is cold, and it's quite calm outside.",1
+327,"What a neutral day, the wind is windy!",2
+328,A very hot morning and a breezy wind makes it hard to go out.,4
+329,very hot temperatures with windy winds today.,4
+330,A neutral morning and a calm wind makes it hard to go out.,2
+331,A very cold morning and a windy wind makes it hard to go out.,0
+332,A neutral morning and a very windy wind makes it hard to go out.,2
+333,A very hot morning and a windy wind makes it hard to go out.,4
+334,"Such a very cold day, but the wind is neutral.",0
+335,"Can't believe how very hot it is, and it's also very windy.",4
+336,"The weather is very cold, and it's quite breezy outside.",0
+337,"What a very hot day, the wind is very windy!",4
+338,"It's hot, but thankfully the wind isn't too windy.",3
+339,"Can't believe how very hot it is, and it's also calm.",4
+340,Feeling very hot with the neutral breeze coming in.,4
+341,A hot morning and a neutral wind makes it hard to go out.,3
+342,A hot morning and a very windy wind makes it hard to go out.,3
+343,A hot morning and a neutral wind makes it hard to go out.,3
+344,"What a very cold day, the wind is neutral!",0
+345,"Such a cold day, but the wind is very windy.",1
+346,"What a neutral day, the wind is very windy!",2
+347,"The weather is very cold, and it's quite breezy outside.",0
+348,A very cold morning and a very windy wind makes it hard to go out.,0
+349,neutral temperatures with windy winds today.,2
+350,Feeling hot with the breezy breeze coming in.,3
+351,Feeling very cold with the windy breeze coming in.,0
+352,"The weather is cold, and it's quite neutral outside.",1
+353,"Such a very hot day, but the wind is breezy.",4
+354,"What a very hot day, the wind is windy!",4
+355,"Can't believe how very hot it is, and it's also neutral.",4
+356,"It's hot, but thankfully the wind isn't too breezy.",3
+357,"It's very cold, but thankfully the wind isn't too breezy.",0
+358,"It's hot today, and the wind is neutral. Stay safe out there!",3
+359,"What a very cold day, the wind is neutral!",0
+360,"Experiencing neutral weather, and the very windy wind is blowing hard.",2
+361,"The weather is very cold, and it's quite very windy outside.",0
+362,hot temperatures with neutral winds today.,3
+363,"What a cold day, the wind is very windy!",1
+364,hot temperatures with very windy winds today.,3
+365,"The weather is hot, and it's quite neutral outside.",3
+366,"Can't believe how hot it is, and it's also neutral.",3
+367,"The weather is cold, and it's quite neutral outside.",1
+368,"Experiencing very hot weather, and the breezy wind is blowing hard.",4
+369,Feeling hot with the breezy breeze coming in.,3
+370,very cold temperatures with neutral winds today.,0
+371,"It's very cold today, and the wind is windy. Stay safe out there!",0
+372,Feeling cold with the windy breeze coming in.,1
+373,A neutral morning and a windy wind makes it hard to go out.,2
+374,very cold temperatures with windy winds today.,0
+375,"Can't believe how hot it is, and it's also breezy.",3
+376,"It's very cold, but thankfully the wind isn't too calm.",0
+377,"It's very cold, but thankfully the wind isn't too breezy.",0
+378,Feeling cold with the calm breeze coming in.,1
+379,"Experiencing hot weather, and the very windy wind is blowing hard.",3
+380,hot temperatures with windy winds today.,3
+381,"Can't believe how neutral it is, and it's also neutral.",2
+382,"The weather is cold, and it's quite very windy outside.",1
+383,"The weather is neutral, and it's quite very windy outside.",2
+384,"Experiencing very cold weather, and the very windy wind is blowing hard.",0
+385,"It's neutral today, and the wind is very windy. Stay safe out there!",2
+386,"It's hot, but thankfully the wind isn't too very windy.",3
+387,"What a neutral day, the wind is very windy!",2
+388,A hot morning and a windy wind makes it hard to go out.,3
+389,"It's hot today, and the wind is neutral. Stay safe out there!",3
+390,Feeling very hot with the breezy breeze coming in.,4
+391,"It's cold, but thankfully the wind isn't too windy.",1
+392,"It's very cold, but thankfully the wind isn't too neutral.",0
+393,"Experiencing very hot weather, and the very windy wind is blowing hard.",4
+394,very cold temperatures with windy winds today.,0
+395,"Experiencing very hot weather, and the very windy wind is blowing hard.",4
+396,"Can't believe how very hot it is, and it's also calm.",4
+397,A neutral morning and a neutral wind makes it hard to go out.,2
+398,Feeling hot with the calm breeze coming in.,3
+399,"Such a very hot day, but the wind is very windy.",4
+400,"Such a very hot day, but the wind is calm.",4
+401,"Can't believe how neutral it is, and it's also calm.",2
+402,"It's very cold today, and the wind is calm. Stay safe out there!",0
+403,hot temperatures with breezy winds today.,3
+404,neutral temperatures with breezy winds today.,2
+405,Feeling cold with the breezy breeze coming in.,1
+406,"Can't believe how cold it is, and it's also breezy.",1
+407,"It's very hot today, and the wind is windy. Stay safe out there!",4
+408,"The weather is neutral, and it's quite neutral outside.",2
+409,hot temperatures with breezy winds today.,3
+410,Feeling neutral with the very windy breeze coming in.,2
+411,Feeling very cold with the very windy breeze coming in.,0
+412,"What a hot day, the wind is very windy!",3
+413,"The weather is neutral, and it's quite windy outside.",2
+414,"It's very hot, but thankfully the wind isn't too neutral.",4
+415,"It's hot, but thankfully the wind isn't too calm.",3
+416,"Experiencing very hot weather, and the neutral wind is blowing hard.",4
+417,A neutral morning and a very windy wind makes it hard to go out.,2
+418,hot temperatures with windy winds today.,3
+419,"The weather is hot, and it's quite neutral outside.",3
+420,"Experiencing cold weather, and the very windy wind is blowing hard.",1
+421,"The weather is neutral, and it's quite calm outside.",2
+422,"It's neutral today, and the wind is breezy. Stay safe out there!",2
+423,Feeling very hot with the breezy breeze coming in.,4
+424,Feeling very hot with the very windy breeze coming in.,4
+425,"Experiencing hot weather, and the breezy wind is blowing hard.",3
+426,"What a very cold day, the wind is very windy!",0
+427,"It's neutral, but thankfully the wind isn't too neutral.",2
+428,"It's hot, but thankfully the wind isn't too windy.",3
+429,"Such a hot day, but the wind is very windy.",3
+430,Feeling cold with the very windy breeze coming in.,1
+431,"What a very cold day, the wind is calm!",0
+432,Feeling neutral with the very windy breeze coming in.,2
+433,"Such a very hot day, but the wind is breezy.",4
+434,"Experiencing neutral weather, and the breezy wind is blowing hard.",2
+435,"What a neutral day, the wind is very windy!",2
+436,"Can't believe how very cold it is, and it's also neutral.",0
+437,"It's hot, but thankfully the wind isn't too calm.",3
+438,"It's very hot, but thankfully the wind isn't too very windy.",4
+439,Feeling neutral with the very windy breeze coming in.,2
+440,A hot morning and a breezy wind makes it hard to go out.,3
+441,A very hot morning and a very windy wind makes it hard to go out.,4
+442,"What a very hot day, the wind is neutral!",4
+443,hot temperatures with breezy winds today.,3
+444,"It's neutral, but thankfully the wind isn't too windy.",2
+445,"Can't believe how very cold it is, and it's also calm.",0
+446,very hot temperatures with very windy winds today.,4
+447,A cold morning and a calm wind makes it hard to go out.,1
+448,"The weather is very hot, and it's quite neutral outside.",4
+449,Feeling hot with the very windy breeze coming in.,3
+450,"The weather is neutral, and it's quite neutral outside.",2
+451,"It's neutral, but thankfully the wind isn't too breezy.",2
+452,"The weather is hot, and it's quite neutral outside.",3
+453,"The weather is very cold, and it's quite calm outside.",0
+454,"It's very hot, but thankfully the wind isn't too very windy.",4
+455,"Can't believe how cold it is, and it's also neutral.",1
+456,"It's neutral today, and the wind is windy. Stay safe out there!",2
+457,"What a very hot day, the wind is calm!",4
+458,"What a neutral day, the wind is very windy!",2
+459,"It's very cold today, and the wind is calm. Stay safe out there!",0
+460,very hot temperatures with breezy winds today.,4
+461,"The weather is very hot, and it's quite windy outside.",4
+462,"It's very hot, but thankfully the wind isn't too windy.",4
+463,"What a very cold day, the wind is breezy!",0
+464,"It's hot today, and the wind is windy. Stay safe out there!",3
+465,very cold temperatures with calm winds today.,0
+466,"It's hot, but thankfully the wind isn't too calm.",3
+467,"It's very cold, but thankfully the wind isn't too calm.",0
+468,"Such a neutral day, but the wind is windy.",2
+469,"What a neutral day, the wind is windy!",2
+470,"Such a cold day, but the wind is breezy.",1
+471,Feeling neutral with the very windy breeze coming in.,2
+472,A neutral morning and a very windy wind makes it hard to go out.,2
+473,hot temperatures with very windy winds today.,3
+474,cold temperatures with windy winds today.,1
+475,"It's neutral today, and the wind is very windy. Stay safe out there!",2
+476,"It's neutral, but thankfully the wind isn't too calm.",2
+477,"Can't believe how very cold it is, and it's also neutral.",0
+478,"Experiencing very hot weather, and the breezy wind is blowing hard.",4
+479,"What a hot day, the wind is very windy!",3
+480,A neutral morning and a very windy wind makes it hard to go out.,2
+481,"The weather is very cold, and it's quite windy outside.",0
+482,"The weather is neutral, and it's quite windy outside.",2
+483,hot temperatures with windy winds today.,3
+484,"The weather is hot, and it's quite calm outside.",3
+485,A hot morning and a very windy wind makes it hard to go out.,3
+486,"It's very cold today, and the wind is very windy. Stay safe out there!",0
+487,"The weather is neutral, and it's quite very windy outside.",2
+488,"The weather is very hot, and it's quite neutral outside.",4
+489,"It's neutral, but thankfully the wind isn't too calm.",2
+490,"It's neutral, but thankfully the wind isn't too windy.",2
+491,"It's very cold, but thankfully the wind isn't too very windy.",0
+492,"What a cold day, the wind is very windy!",1
+493,"What a cold day, the wind is windy!",1
+494,"The weather is very cold, and it's quite breezy outside.",0
+495,"What a very cold day, the wind is breezy!",0
+496,"Such a very hot day, but the wind is calm.",4
+497,Feeling hot with the neutral breeze coming in.,3
+498,very cold temperatures with very windy winds today.,0
+499,Feeling very hot with the neutral breeze coming in.,4
+500,"The weather is very hot, and it's quite very windy outside.",4
+501,It's absolutely freezing out here!,0
+502,"This winter chill is brutal, freezing temps all around!",0
+503,Feels like I'm in an icebox! The cold is intense today.,0
+504,"Coldest day of the year, can't feel my fingers!",0
+505,Brrr... it's so cold I can see my breath indoors!,0
+506,Brrr... it's so cold I can see my breath indoors!,0
+507,It's absolutely freezing out here!,0
+508,Brrr... it's so cold I can see my breath indoors!,0
+509,It's absolutely freezing out here!,0
+510,Brrr... it's so cold I can see my breath indoors!,0
+511,Brrr... it's so cold I can see my breath indoors!,0
+512,"This winter chill is brutal, freezing temps all around!",0
+513,"This winter chill is brutal, freezing temps all around!",0
+514,It's absolutely freezing out here!,0
+515,It's absolutely freezing out here!,0
+516,"This winter chill is brutal, freezing temps all around!",0
+517,Feels like I'm in an icebox! The cold is intense today.,0
+518,It's absolutely freezing out here!,0
+519,"Coldest day of the year, can't feel my fingers!",0
+520,Feels like I'm in an icebox! The cold is intense today.,0
+521,Brrr... it's so cold I can see my breath indoors!,0
+522,Brrr... it's so cold I can see my breath indoors!,0
+523,Brrr... it's so cold I can see my breath indoors!,0
+524,"This winter chill is brutal, freezing temps all around!",0
+525,"This winter chill is brutal, freezing temps all around!",0
+526,It's absolutely freezing out here!,0
+527,Feels like I'm in an icebox! The cold is intense today.,0
+528,"Coldest day of the year, can't feel my fingers!",0
+529,"Coldest day of the year, can't feel my fingers!",0
+530,Feels like I'm in an icebox! The cold is intense today.,0
+531,Brrr... it's so cold I can see my breath indoors!,0
+532,"Coldest day of the year, can't feel my fingers!",0
+533,"Coldest day of the year, can't feel my fingers!",0
+534,Feels like I'm in an icebox! The cold is intense today.,0
+535,"Coldest day of the year, can't feel my fingers!",0
+536,Brrr... it's so cold I can see my breath indoors!,0
+537,It's absolutely freezing out here!,0
+538,Feels like I'm in an icebox! The cold is intense today.,0
+539,It's absolutely freezing out here!,0
+540,Brrr... it's so cold I can see my breath indoors!,0
+541,"Coldest day of the year, can't feel my fingers!",0
+542,"This winter chill is brutal, freezing temps all around!",0
+543,Brrr... it's so cold I can see my breath indoors!,0
+544,Feels like I'm in an icebox! The cold is intense today.,0
+545,"Coldest day of the year, can't feel my fingers!",0
+546,Feels like I'm in an icebox! The cold is intense today.,0
+547,"This winter chill is brutal, freezing temps all around!",0
+548,Feels like I'm in an icebox! The cold is intense today.,0
+549,It's absolutely freezing out here!,0
+550,Feels like I'm in an icebox! The cold is intense today.,0
+551,Brrr... it's so cold I can see my breath indoors!,0
+552,Brrr... it's so cold I can see my breath indoors!,0
+553,"Coldest day of the year, can't feel my fingers!",0
+554,Feels like I'm in an icebox! The cold is intense today.,0
+555,"This winter chill is brutal, freezing temps all around!",0
+556,It's absolutely freezing out here!,0
+557,It's absolutely freezing out here!,0
+558,"This winter chill is brutal, freezing temps all around!",0
+559,"Coldest day of the year, can't feel my fingers!",0
+560,"This winter chill is brutal, freezing temps all around!",0
+561,Feels like I'm in an icebox! The cold is intense today.,0
+562,Feels like I'm in an icebox! The cold is intense today.,0
+563,"This winter chill is brutal, freezing temps all around!",0
+564,Brrr... it's so cold I can see my breath indoors!,0
+565,It's absolutely freezing out here!,0
+566,It's absolutely freezing out here!,0
+567,It's absolutely freezing out here!,0
+568,It's absolutely freezing out here!,0
+569,It's absolutely freezing out here!,0
+570,"This winter chill is brutal, freezing temps all around!",0
+571,Feels like I'm in an icebox! The cold is intense today.,0
+572,"This winter chill is brutal, freezing temps all around!",0
+573,"Coldest day of the year, can't feel my fingers!",0
+574,Feels like I'm in an icebox! The cold is intense today.,0
+575,Feels like I'm in an icebox! The cold is intense today.,0
+576,Feels like I'm in an icebox! The cold is intense today.,0
+577,"This winter chill is brutal, freezing temps all around!",0
+578,It's absolutely freezing out here!,0
+579,Feels like I'm in an icebox! The cold is intense today.,0
+580,Feels like I'm in an icebox! The cold is intense today.,0
+581,"This winter chill is brutal, freezing temps all around!",0
+582,"Coldest day of the year, can't feel my fingers!",0
+583,Brrr... it's so cold I can see my breath indoors!,0
+584,"This winter chill is brutal, freezing temps all around!",0
+585,It's absolutely freezing out here!,0
+586,Brrr... it's so cold I can see my breath indoors!,0
+587,Brrr... it's so cold I can see my breath indoors!,0
+588,Brrr... it's so cold I can see my breath indoors!,0
+589,"This winter chill is brutal, freezing temps all around!",0
+590,"This winter chill is brutal, freezing temps all around!",0
+591,"This winter chill is brutal, freezing temps all around!",0
+592,Feels like I'm in an icebox! The cold is intense today.,0
+593,Feels like I'm in an icebox! The cold is intense today.,0
+594,"This winter chill is brutal, freezing temps all around!",0
+595,It's absolutely freezing out here!,0
+596,Feels like I'm in an icebox! The cold is intense today.,0
+597,Feels like I'm in an icebox! The cold is intense today.,0
+598,Brrr... it's so cold I can see my breath indoors!,0
+599,Feels like I'm in an icebox! The cold is intense today.,0
+600,"Coldest day of the year, can't feel my fingers!",0
+601,"Getting colder these days, definitely feeling like winter.",1
+602,"Chilly morning today, might need a jacket.",1
+603,"Getting colder these days, definitely feeling like winter.",1
+604,"Cold weather is here, I can feel it in the air.",1
+605,"A bit of a cold snap today, not too bad.",1
+606,It's quite cold outside but manageable.,1
+607,"A bit of a cold snap today, not too bad.",1
+608,"Getting colder these days, definitely feeling like winter.",1
+609,It's quite cold outside but manageable.,1
+610,"A bit of a cold snap today, not too bad.",1
+611,It's quite cold outside but manageable.,1
+612,"Getting colder these days, definitely feeling like winter.",1
+613,"Cold weather is here, I can feel it in the air.",1
+614,"A bit of a cold snap today, not too bad.",1
+615,It's quite cold outside but manageable.,1
+616,"Getting colder these days, definitely feeling like winter.",1
+617,"Cold weather is here, I can feel it in the air.",1
+618,It's quite cold outside but manageable.,1
+619,"A bit of a cold snap today, not too bad.",1
+620,"Cold weather is here, I can feel it in the air.",1
+621,"Getting colder these days, definitely feeling like winter.",1
+622,"Chilly morning today, might need a jacket.",1
+623,"A bit of a cold snap today, not too bad.",1
+624,"Chilly morning today, might need a jacket.",1
+625,It's quite cold outside but manageable.,1
+626,"Chilly morning today, might need a jacket.",1
+627,It's quite cold outside but manageable.,1
+628,"Cold weather is here, I can feel it in the air.",1
+629,It's quite cold outside but manageable.,1
+630,"A bit of a cold snap today, not too bad.",1
+631,It's quite cold outside but manageable.,1
+632,"Getting colder these days, definitely feeling like winter.",1
+633,It's quite cold outside but manageable.,1
+634,"A bit of a cold snap today, not too bad.",1
+635,It's quite cold outside but manageable.,1
+636,"Getting colder these days, definitely feeling like winter.",1
+637,It's quite cold outside but manageable.,1
+638,It's quite cold outside but manageable.,1
+639,"Cold weather is here, I can feel it in the air.",1
+640,"A bit of a cold snap today, not too bad.",1
+641,"Cold weather is here, I can feel it in the air.",1
+642,"Cold weather is here, I can feel it in the air.",1
+643,"Cold weather is here, I can feel it in the air.",1
+644,"Chilly morning today, might need a jacket.",1
+645,"Getting colder these days, definitely feeling like winter.",1
+646,"A bit of a cold snap today, not too bad.",1
+647,"A bit of a cold snap today, not too bad.",1
+648,It's quite cold outside but manageable.,1
+649,"Chilly morning today, might need a jacket.",1
+650,"A bit of a cold snap today, not too bad.",1
+651,It's quite cold outside but manageable.,1
+652,It's quite cold outside but manageable.,1
+653,"Chilly morning today, might need a jacket.",1
+654,"Chilly morning today, might need a jacket.",1
+655,"A bit of a cold snap today, not too bad.",1
+656,"Getting colder these days, definitely feeling like winter.",1
+657,"Getting colder these days, definitely feeling like winter.",1
+658,It's quite cold outside but manageable.,1
+659,It's quite cold outside but manageable.,1
+660,"Chilly morning today, might need a jacket.",1
+661,"Chilly morning today, might need a jacket.",1
+662,"Getting colder these days, definitely feeling like winter.",1
+663,It's quite cold outside but manageable.,1
+664,"Chilly morning today, might need a jacket.",1
+665,"Getting colder these days, definitely feeling like winter.",1
+666,"A bit of a cold snap today, not too bad.",1
+667,"A bit of a cold snap today, not too bad.",1
+668,"A bit of a cold snap today, not too bad.",1
+669,It's quite cold outside but manageable.,1
+670,"Chilly morning today, might need a jacket.",1
+671,"Cold weather is here, I can feel it in the air.",1
+672,"Getting colder these days, definitely feeling like winter.",1
+673,"Getting colder these days, definitely feeling like winter.",1
+674,"Getting colder these days, definitely feeling like winter.",1
+675,"Getting colder these days, definitely feeling like winter.",1
+676,"Cold weather is here, I can feel it in the air.",1
+677,"Cold weather is here, I can feel it in the air.",1
+678,"A bit of a cold snap today, not too bad.",1
+679,"Cold weather is here, I can feel it in the air.",1
+680,"Chilly morning today, might need a jacket.",1
+681,"A bit of a cold snap today, not too bad.",1
+682,"A bit of a cold snap today, not too bad.",1
+683,"Cold weather is here, I can feel it in the air.",1
+684,It's quite cold outside but manageable.,1
+685,"A bit of a cold snap today, not too bad.",1
+686,"Chilly morning today, might need a jacket.",1
+687,"Chilly morning today, might need a jacket.",1
+688,"Getting colder these days, definitely feeling like winter.",1
+689,"Cold weather is here, I can feel it in the air.",1
+690,It's quite cold outside but manageable.,1
+691,It's quite cold outside but manageable.,1
+692,"Chilly morning today, might need a jacket.",1
+693,"Getting colder these days, definitely feeling like winter.",1
+694,"Cold weather is here, I can feel it in the air.",1
+695,"Chilly morning today, might need a jacket.",1
+696,"Chilly morning today, might need a jacket.",1
+697,It's quite cold outside but manageable.,1
+698,"A bit of a cold snap today, not too bad.",1
+699,"Cold weather is here, I can feel it in the air.",1
+700,"Chilly morning today, might need a jacket.",1
+701,"Today was an ordinary day, nothing unusual happened.",2
+702,"Just finished a great book, feeling accomplished.",2
+703,Looking forward to the weekend with some friends!,2
+704,"Just finished a great book, feeling accomplished.",2
+705,Enjoying some downtime and relaxing.,2
+706,Had a delicious meal at my favorite restaurant!,2
+707,Had a delicious meal at my favorite restaurant!,2
+708,"Today was an ordinary day, nothing unusual happened.",2
+709,Had a delicious meal at my favorite restaurant!,2
+710,Enjoying some downtime and relaxing.,2
+711,Looking forward to the weekend with some friends!,2
+712,Enjoying some downtime and relaxing.,2
+713,"Today was an ordinary day, nothing unusual happened.",2
+714,Looking forward to the weekend with some friends!,2
+715,"Just finished a great book, feeling accomplished.",2
+716,Had a delicious meal at my favorite restaurant!,2
+717,Looking forward to the weekend with some friends!,2
+718,Enjoying some downtime and relaxing.,2
+719,"Just finished a great book, feeling accomplished.",2
+720,"Just finished a great book, feeling accomplished.",2
+721,Had a delicious meal at my favorite restaurant!,2
+722,"Today was an ordinary day, nothing unusual happened.",2
+723,Looking forward to the weekend with some friends!,2
+724,Looking forward to the weekend with some friends!,2
+725,Had a delicious meal at my favorite restaurant!,2
+726,Enjoying some downtime and relaxing.,2
+727,"Just finished a great book, feeling accomplished.",2
+728,Looking forward to the weekend with some friends!,2
+729,Enjoying some downtime and relaxing.,2
+730,Looking forward to the weekend with some friends!,2
+731,"Just finished a great book, feeling accomplished.",2
+732,"Today was an ordinary day, nothing unusual happened.",2
+733,Enjoying some downtime and relaxing.,2
+734,Looking forward to the weekend with some friends!,2
+735,"Today was an ordinary day, nothing unusual happened.",2
+736,"Just finished a great book, feeling accomplished.",2
+737,"Just finished a great book, feeling accomplished.",2
+738,Looking forward to the weekend with some friends!,2
+739,"Today was an ordinary day, nothing unusual happened.",2
+740,"Today was an ordinary day, nothing unusual happened.",2
+741,Had a delicious meal at my favorite restaurant!,2
+742,"Today was an ordinary day, nothing unusual happened.",2
+743,"Today was an ordinary day, nothing unusual happened.",2
+744,"Just finished a great book, feeling accomplished.",2
+745,"Today was an ordinary day, nothing unusual happened.",2
+746,Looking forward to the weekend with some friends!,2
+747,"Today was an ordinary day, nothing unusual happened.",2
+748,"Just finished a great book, feeling accomplished.",2
+749,"Just finished a great book, feeling accomplished.",2
+750,"Today was an ordinary day, nothing unusual happened.",2
+751,"Today was an ordinary day, nothing unusual happened.",2
+752,"Today was an ordinary day, nothing unusual happened.",2
+753,Had a delicious meal at my favorite restaurant!,2
+754,Had a delicious meal at my favorite restaurant!,2
+755,"Today was an ordinary day, nothing unusual happened.",2
+756,Had a delicious meal at my favorite restaurant!,2
+757,Enjoying some downtime and relaxing.,2
+758,Looking forward to the weekend with some friends!,2
+759,Enjoying some downtime and relaxing.,2
+760,"Today was an ordinary day, nothing unusual happened.",2
+761,Enjoying some downtime and relaxing.,2
+762,"Just finished a great book, feeling accomplished.",2
+763,Had a delicious meal at my favorite restaurant!,2
+764,"Today was an ordinary day, nothing unusual happened.",2
+765,"Just finished a great book, feeling accomplished.",2
+766,Had a delicious meal at my favorite restaurant!,2
+767,Looking forward to the weekend with some friends!,2
+768,"Today was an ordinary day, nothing unusual happened.",2
+769,"Just finished a great book, feeling accomplished.",2
+770,Had a delicious meal at my favorite restaurant!,2
+771,Had a delicious meal at my favorite restaurant!,2
+772,Looking forward to the weekend with some friends!,2
+773,Had a delicious meal at my favorite restaurant!,2
+774,Had a delicious meal at my favorite restaurant!,2
+775,Enjoying some downtime and relaxing.,2
+776,"Today was an ordinary day, nothing unusual happened.",2
+777,"Today was an ordinary day, nothing unusual happened.",2
+778,"Just finished a great book, feeling accomplished.",2
+779,Had a delicious meal at my favorite restaurant!,2
+780,Had a delicious meal at my favorite restaurant!,2
+781,Enjoying some downtime and relaxing.,2
+782,"Today was an ordinary day, nothing unusual happened.",2
+783,Enjoying some downtime and relaxing.,2
+784,Had a delicious meal at my favorite restaurant!,2
+785,"Today was an ordinary day, nothing unusual happened.",2
+786,Enjoying some downtime and relaxing.,2
+787,Enjoying some downtime and relaxing.,2
+788,Looking forward to the weekend with some friends!,2
+789,Had a delicious meal at my favorite restaurant!,2
+790,Enjoying some downtime and relaxing.,2
+791,"Just finished a great book, feeling accomplished.",2
+792,"Just finished a great book, feeling accomplished.",2
+793,"Just finished a great book, feeling accomplished.",2
+794,Had a delicious meal at my favorite restaurant!,2
+795,"Today was an ordinary day, nothing unusual happened.",2
+796,"Just finished a great book, feeling accomplished.",2
+797,Enjoying some downtime and relaxing.,2
+798,Looking forward to the weekend with some friends!,2
+799,Looking forward to the weekend with some friends!,2
+800,"Today was an ordinary day, nothing unusual happened.",2
+801,"Hot day today, but still bearable.",3
+802,"Today feels pretty hot, summer's here!",3
+803,"It's warming up, might be able to hit the beach soon.",3
+804,"Today feels pretty hot, summer's here!",3
+805,"Hot day today, but still bearable.",3
+806,"Today feels pretty hot, summer's here!",3
+807,Definitely warm enough for short sleeves now.,3
+808,The sun's out and it's getting warm!,3
+809,"Hot day today, but still bearable.",3
+810,"It's warming up, might be able to hit the beach soon.",3
+811,"Today feels pretty hot, summer's here!",3
+812,Definitely warm enough for short sleeves now.,3
+813,"Hot day today, but still bearable.",3
+814,Definitely warm enough for short sleeves now.,3
+815,Definitely warm enough for short sleeves now.,3
+816,"It's warming up, might be able to hit the beach soon.",3
+817,Definitely warm enough for short sleeves now.,3
+818,"Today feels pretty hot, summer's here!",3
+819,Definitely warm enough for short sleeves now.,3
+820,"Today feels pretty hot, summer's here!",3
+821,Definitely warm enough for short sleeves now.,3
+822,"Today feels pretty hot, summer's here!",3
+823,"Today feels pretty hot, summer's here!",3
+824,"Today feels pretty hot, summer's here!",3
+825,"Hot day today, but still bearable.",3
+826,"Hot day today, but still bearable.",3
+827,The sun's out and it's getting warm!,3
+828,Definitely warm enough for short sleeves now.,3
+829,Definitely warm enough for short sleeves now.,3
+830,The sun's out and it's getting warm!,3
+831,"Hot day today, but still bearable.",3
+832,Definitely warm enough for short sleeves now.,3
+833,"It's warming up, might be able to hit the beach soon.",3
+834,"Today feels pretty hot, summer's here!",3
+835,The sun's out and it's getting warm!,3
+836,The sun's out and it's getting warm!,3
+837,"It's warming up, might be able to hit the beach soon.",3
+838,"Today feels pretty hot, summer's here!",3
+839,The sun's out and it's getting warm!,3
+840,The sun's out and it's getting warm!,3
+841,"Hot day today, but still bearable.",3
+842,The sun's out and it's getting warm!,3
+843,"It's warming up, might be able to hit the beach soon.",3
+844,"Today feels pretty hot, summer's here!",3
+845,"It's warming up, might be able to hit the beach soon.",3
+846,"Hot day today, but still bearable.",3
+847,"Today feels pretty hot, summer's here!",3
+848,"It's warming up, might be able to hit the beach soon.",3
+849,"Today feels pretty hot, summer's here!",3
+850,Definitely warm enough for short sleeves now.,3
+851,The sun's out and it's getting warm!,3
+852,"Today feels pretty hot, summer's here!",3
+853,The sun's out and it's getting warm!,3
+854,"Hot day today, but still bearable.",3
+855,"It's warming up, might be able to hit the beach soon.",3
+856,"It's warming up, might be able to hit the beach soon.",3
+857,"Hot day today, but still bearable.",3
+858,"Today feels pretty hot, summer's here!",3
+859,The sun's out and it's getting warm!,3
+860,"It's warming up, might be able to hit the beach soon.",3
+861,"Hot day today, but still bearable.",3
+862,The sun's out and it's getting warm!,3
+863,Definitely warm enough for short sleeves now.,3
+864,Definitely warm enough for short sleeves now.,3
+865,"Hot day today, but still bearable.",3
+866,"Today feels pretty hot, summer's here!",3
+867,Definitely warm enough for short sleeves now.,3
+868,The sun's out and it's getting warm!,3
+869,"It's warming up, might be able to hit the beach soon.",3
+870,"It's warming up, might be able to hit the beach soon.",3
+871,The sun's out and it's getting warm!,3
+872,"Hot day today, but still bearable.",3
+873,Definitely warm enough for short sleeves now.,3
+874,"It's warming up, might be able to hit the beach soon.",3
+875,Definitely warm enough for short sleeves now.,3
+876,Definitely warm enough for short sleeves now.,3
+877,The sun's out and it's getting warm!,3
+878,"Hot day today, but still bearable.",3
+879,The sun's out and it's getting warm!,3
+880,"It's warming up, might be able to hit the beach soon.",3
+881,Definitely warm enough for short sleeves now.,3
+882,Definitely warm enough for short sleeves now.,3
+883,"Today feels pretty hot, summer's here!",3
+884,The sun's out and it's getting warm!,3
+885,Definitely warm enough for short sleeves now.,3
+886,Definitely warm enough for short sleeves now.,3
+887,Definitely warm enough for short sleeves now.,3
+888,The sun's out and it's getting warm!,3
+889,"Today feels pretty hot, summer's here!",3
+890,"Hot day today, but still bearable.",3
+891,Definitely warm enough for short sleeves now.,3
+892,"It's warming up, might be able to hit the beach soon.",3
+893,"It's warming up, might be able to hit the beach soon.",3
+894,"Today feels pretty hot, summer's here!",3
+895,"Today feels pretty hot, summer's here!",3
+896,Definitely warm enough for short sleeves now.,3
+897,"It's warming up, might be able to hit the beach soon.",3
+898,"Hot day today, but still bearable.",3
+899,"It's warming up, might be able to hit the beach soon.",3
+900,The sun's out and it's getting warm!,3
+901,"Absolutely sweltering weather, it's unbearable!",4
+902,"Absolutely sweltering weather, it's unbearable!",4
+903,"Hottest day of the year, I'm melting!",4
+904,"Scorching hot out here, like a desert!",4
+905,"Heatwave in full effect, can't handle this heat!",4
+906,"Absolutely sweltering weather, it's unbearable!",4
+907,"Scorching hot out here, like a desert!",4
+908,"Hottest day of the year, I'm melting!",4
+909,"Scorching hot out here, like a desert!",4
+910,"Hottest day of the year, I'm melting!",4
+911,"It's so hot, feels like I'm on the sun!",4
+912,"Scorching hot out here, like a desert!",4
+913,"Hottest day of the year, I'm melting!",4
+914,"Hottest day of the year, I'm melting!",4
+915,"Hottest day of the year, I'm melting!",4
+916,"Hottest day of the year, I'm melting!",4
+917,"Heatwave in full effect, can't handle this heat!",4
+918,"Heatwave in full effect, can't handle this heat!",4
+919,"Absolutely sweltering weather, it's unbearable!",4
+920,"Absolutely sweltering weather, it's unbearable!",4
+921,"Scorching hot out here, like a desert!",4
+922,"Scorching hot out here, like a desert!",4
+923,"It's so hot, feels like I'm on the sun!",4
+924,"Hottest day of the year, I'm melting!",4
+925,"Heatwave in full effect, can't handle this heat!",4
+926,"Scorching hot out here, like a desert!",4
+927,"Absolutely sweltering weather, it's unbearable!",4
+928,"Heatwave in full effect, can't handle this heat!",4
+929,"Scorching hot out here, like a desert!",4
+930,"Hottest day of the year, I'm melting!",4
+931,"Hottest day of the year, I'm melting!",4
+932,"Scorching hot out here, like a desert!",4
+933,"Scorching hot out here, like a desert!",4
+934,"Scorching hot out here, like a desert!",4
+935,"Hottest day of the year, I'm melting!",4
+936,"Heatwave in full effect, can't handle this heat!",4
+937,"Scorching hot out here, like a desert!",4
+938,"Heatwave in full effect, can't handle this heat!",4
+939,"Scorching hot out here, like a desert!",4
+940,"Scorching hot out here, like a desert!",4
+941,"Hottest day of the year, I'm melting!",4
+942,"Absolutely sweltering weather, it's unbearable!",4
+943,"Absolutely sweltering weather, it's unbearable!",4
+944,"Scorching hot out here, like a desert!",4
+945,"Hottest day of the year, I'm melting!",4
+946,"Absolutely sweltering weather, it's unbearable!",4
+947,"Absolutely sweltering weather, it's unbearable!",4
+948,"Hottest day of the year, I'm melting!",4
+949,"Heatwave in full effect, can't handle this heat!",4
+950,"Scorching hot out here, like a desert!",4
+951,"Absolutely sweltering weather, it's unbearable!",4
+952,"It's so hot, feels like I'm on the sun!",4
+953,"Hottest day of the year, I'm melting!",4
+954,"Hottest day of the year, I'm melting!",4
+955,"Heatwave in full effect, can't handle this heat!",4
+956,"Absolutely sweltering weather, it's unbearable!",4
+957,"Absolutely sweltering weather, it's unbearable!",4
+958,"It's so hot, feels like I'm on the sun!",4
+959,"Scorching hot out here, like a desert!",4
+960,"Heatwave in full effect, can't handle this heat!",4
+961,"Heatwave in full effect, can't handle this heat!",4
+962,"Absolutely sweltering weather, it's unbearable!",4
+963,"It's so hot, feels like I'm on the sun!",4
+964,"Heatwave in full effect, can't handle this heat!",4
+965,"Hottest day of the year, I'm melting!",4
+966,"Hottest day of the year, I'm melting!",4
+967,"Scorching hot out here, like a desert!",4
+968,"Heatwave in full effect, can't handle this heat!",4
+969,"It's so hot, feels like I'm on the sun!",4
+970,"Heatwave in full effect, can't handle this heat!",4
+971,"Scorching hot out here, like a desert!",4
+972,"It's so hot, feels like I'm on the sun!",4
+973,"Scorching hot out here, like a desert!",4
+974,"Scorching hot out here, like a desert!",4
+975,"Hottest day of the year, I'm melting!",4
+976,"It's so hot, feels like I'm on the sun!",4
+977,"Hottest day of the year, I'm melting!",4
+978,"Absolutely sweltering weather, it's unbearable!",4
+979,"Heatwave in full effect, can't handle this heat!",4
+980,"Absolutely sweltering weather, it's unbearable!",4
+981,"Hottest day of the year, I'm melting!",4
+982,"Hottest day of the year, I'm melting!",4
+983,"Absolutely sweltering weather, it's unbearable!",4
+984,"Absolutely sweltering weather, it's unbearable!",4
+985,"Hottest day of the year, I'm melting!",4
+986,"Absolutely sweltering weather, it's unbearable!",4
+987,"Scorching hot out here, like a desert!",4
+988,"Heatwave in full effect, can't handle this heat!",4
+989,"Absolutely sweltering weather, it's unbearable!",4
+990,"It's so hot, feels like I'm on the sun!",4
+991,"It's so hot, feels like I'm on the sun!",4
+992,"Hottest day of the year, I'm melting!",4
+993,"It's so hot, feels like I'm on the sun!",4
+994,"Absolutely sweltering weather, it's unbearable!",4
+995,"It's so hot, feels like I'm on the sun!",4
+996,"Hottest day of the year, I'm melting!",4
+997,"Absolutely sweltering weather, it's unbearable!",4
+998,"Scorching hot out here, like a desert!",4
+999,"Absolutely sweltering weather, it's unbearable!",4
+1000,"Hottest day of the year, I'm melting!",4
